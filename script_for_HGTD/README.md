@@ -16,21 +16,21 @@ If your server is using this repository for the first time, follow the [clone an
 # Demonstrator introduction
 The following picture shows the demonstrator in the clean room (Building 180, CERN).
 
-<img src="./script3/config/demonstrator.jpg"  width="500">
+<img src="./config/demonstrator.jpg"  width="500">
 
 The PEB 1F can be used to connect the column 1\~3 (21\~19) of the front (back) side. For the demonstrator, it is the front side. It contains 9 timing data channels (T0\~T8) and 3 lumi data channels (L0\~L2).
 
-<img src="./script3/config/map_PEB1F.png"  width="500">
+<img src="./config/map_PEB1F.png"  width="500">
 
 From the detector units point of view, for each column, we name the modules as 1 to 18 from the out to the inner, as the following plot shows.
 
-<img src="./script3/config/module.png"  width="500">
+<img src="./config/module.png"  width="500">
 
 From the data rate (or the eLink of lpGBT) point of view, for the modules connected with each lpGBT, we also name them as "M#". The following tables show how the mdules are connected with the PEB 1F and how the eLinks are allocated in each timing/lumi lpGBT. For each timing lpGBT, according to the data rates of the modules the lpGBT connects, we give a pattern name to it, "MixABC". Here A means the number of modules working at 1280 Mbps, B means the number of modules working at 640 Mbps, and C means the number of modules working at 320 Mbps. For PEB 1F, T0\~T2 are pattern Mix046, T3\~T5 are pattern Mix230, T6 is Mix310 and T7\~T8 are Mix300. 
 
-<img src="./script3/config/connection.png"  width="500">
+<img src="./config/connection.png"  width="500">
 
-<img src="./script3/config/pattern.png"  width="500">
+<img src="./config/pattern.png"  width="500">
 
 You can find more information from [here](https://gitlab.cern.ch/atlas-hgtd/hgtd-peb/-/blob/script_altiroc3/script3/config/PEB_1F_info.xlsx?ref_type=heads)
 
@@ -63,7 +63,7 @@ python3 powerControl_LV.py <--ON/--OFF/-s>
 # Align the GBT channels between PEB and FELIX
 9 full GBT channels (TX+RX) of FELIX card are used for the 9 timing lpGBT. The 3 lumi lpGBTs are configured by 3 timing lpGBT through EC channel. So, to establish the communication between FELIX and PEB 1F (lPGBT), the frist step is to align these 9 channels. Each channel is independent and does not affect the others. It is ok to only align the channel(s) you want to test. The following screenshot shows the 9 timing channels.
 
-<img src="./script3/config/GBT.png"  width="500">
+<img src="./config/GBT.png"  width="500">
 
 Run the following command for several times until the channel(s) alignment shows "YES"
 ```
@@ -82,17 +82,17 @@ From the PEB 1F schematic to learn how to do the connections to power on the HV 
 
 There are two HV connector on PEB 1F (J112 and J333). As the following picture shows, the HV cables have been coded from 1/G1 to 28/G28 according to the connectors. Mark "#" means the channel number and mark "G#" means the GND.
 
-<img src="./script3/config/HVpin.jpg"  width="500">
+<img src="./config/HVpin.jpg"  width="500">
 
 Each HV module only has 14 output channels. The HV cables connect the output of the HV filter. The distribution of the filter output channels is shown as the following plots.
 
-<img src="./script3/config/filter.jpg"  width="500">
+<img src="./config/filter.jpg"  width="500">
 
-<img src="./script3/config/filterOUT.png"  width="500">
+<img src="./config/filterOUT.png"  width="500">
 
 The correct HV connector(J112 or J333) should be connected with the HV cables, and then select the correct HV cables to connect with the filter output according to the moudules you want to test. The relationship between HV pins (same with the HV cable code number) and the correspond modules is shown as the following table.
 
-<img src="./script3/config/connection.png"  width="500">
+<img src="./config/connection.png"  width="500">
 
 From the HV User manual, you can learn how to connect the HV module output channels to the filter input channels, and also, you can learn how to install the HV software and how to contorl the HV module.
 
@@ -256,15 +256,15 @@ python3 monitor_all.py -G <0/1//2/3/4/5/6/7/8>
 # Up-link eye-diagram scanning
 1. Connecting the UPL with the Test pins (T0/L0-J11, T1/L1-J12, T2/J2-J287, T3-J10, T4-J284, T5-J286, T6-J9, T7-J285, T8-J283) on PEB 1F according the lpGBT you want to test.
 
-<img src="./script3/config/UPL.jpg"  width="500">
+<img src="./config/UPL.jpg"  width="500">
 
 2. Connecting the UPL with computer via USB and install the software according to [UPL reference](https://gitlab.cern.ch/atlas-hgtd/hgtd-peb/-/blob/script_altiroc3/script3/eye_scan/demon_scan/UPL/README.md?ref_type=heads).
 
 3. Connecting the coresponding uplink optical fiber with oscilloscope.
 
-<img src="./script3/config/uplink.jpg"  width="500">
+<img src="./config/uplink.jpg"  width="500">
 
-<img src="./script3/config/scopeConnection.jpg"  width="500">
+<img src="./config/scopeConnection.jpg"  width="500">
 
 
 4. Runing the scanning script in folder "path/hgtd-peb/script3/eye_scan/demon_scan/script3/eye_scan"
