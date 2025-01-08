@@ -1,0 +1,51 @@
+Modules:
+- module: 0
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/1280M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/1280M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 4
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/1280M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/1280M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 8
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 10
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 12
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+    vth_thre: 0
+    vthcfile: "config/altiroc/Vthc/empty.txt"

@@ -1,0 +1,155 @@
+Modules:
+# - module: 0
+#   chips:
+#   - chip: 0
+#     startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+#   - chip: 1
+#     startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+# - module: 2
+#   chips:
+#   - chip: 0
+#     startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+#   - chip: 1
+#     startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+# - module: 4
+#   chips:
+#   - chip: 0
+#     startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+#   - chip: 1
+#     startfile: "config/altiroc/startup_periphery/640M_Ldis.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+# - module: 6
+#   chips:
+#   - chip: 0
+#     startfile: "config/altiroc/startup_periphery/640M_Len.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+#   - chip: 1
+#     startfile: "config/altiroc/startup_periphery/640M_Len.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+# - module: 8
+#   chips:
+#   - chip: 0
+#     startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+#   - chip: 1
+#     startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+#     vth_thre: 380
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 9
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M9/asic0_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M9/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 10
+<<<<<<< HEAD
+ chips:
+ - chip: 0
+   startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+   vth_thre: 380
+   #vthcfile: "Plots/coolTest/m35c_plate_pillar/M10/asic0_vthc.txt"
+   vthcfile: "config/altiroc/Vthc/empty.txt"
+ - chip: 1
+   startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+   vth_thre: 380
+   #vthcfile: "Plots/coolTest/m35c_plate_pillar/M10/asic1_vthc.txt"
+   vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 11
+=======
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+<<<<<<< HEAD
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M11/asic0_vthc.txt"
+=======
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M10/asic0_vthc.txt"
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+<<<<<<< HEAD
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M11/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 12
+=======
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M10/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 11
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+<<<<<<< HEAD
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M12/asic0_vthc.txt"
+=======
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M11/asic0_vthc.txt"
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+<<<<<<< HEAD
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M12/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 13
+=======
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M11/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+- module: 12
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2
+  chips:
+  - chip: 0
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+<<<<<<< HEAD
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M13/asic0_vthc.txt"
+=======
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M12/asic0_vthc.txt"
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+  - chip: 1
+    startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+    vth_thre: 380
+<<<<<<< HEAD
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M13/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+=======
+    #vthcfile: "Plots/coolTest/m35c_plate_pillar/M12/asic1_vthc.txt"
+    vthcfile: "config/altiroc/Vthc/empty.txt"
+# - module: 13
+#   chips:
+#   - chip: 0
+#     startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+#     vth_thre: 380
+#     #vthcfile: "Plots/coolTest/m35c_plate_pillar/M13/asic0_vthc.txt"
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+#   - chip: 1
+#     startfile: "config/altiroc/startup_periphery/320M_Len.txt"
+#     vth_thre: 380
+#     #vthcfile: "Plots/coolTest/m35c_plate_pillar/M13/asic1_vthc.txt"
+#     vthcfile: "config/altiroc/Vthc/empty.txt"
+>>>>>>> 4cf58c88179a9dbfdf086443337f5e5358a75ba2

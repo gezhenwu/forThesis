@@ -1,0 +1,81 @@
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 0.***
+
+muxChannel 5 ADC_value 532
+muxChannel 17 ADC_value 1023
+muxChannel 29 ADC_value 1023
+muxChannel 41 ADC_value 549
+muxChannel 53 ADC_value 572
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 1.***
+
+muxChannel 5 ADC_value 532
+muxChannel 17 ADC_value 1023
+muxChannel 29 ADC_value 1023
+muxChannel 41 ADC_value 1023
+muxChannel 53 ADC_value 1023
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 2.***
+
+muxChannel 5 ADC_value 1023
+muxChannel 17 ADC_value 1023
+muxChannel 29 ADC_value 1023
+muxChannel 41 ADC_value 1023
+muxChannel 53 ADC_value 1023
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 3.***
+
+muxChannel 5 ADC_value 525
+muxChannel 17 ADC_value 534
+muxChannel 29 ADC_value 541
+muxChannel 41 ADC_value 505
+muxChannel 53 ADC_value 503
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 4.***
+
+muxChannel 5 ADC_value 534
+muxChannel 17 ADC_value 604
+muxChannel 29 ADC_value 550
+muxChannel 41 ADC_value 554
+muxChannel 53 ADC_value 603
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 5.***
+
+muxChannel 5 ADC_value 520
+muxChannel 17 ADC_value 521
+muxChannel 29 ADC_value 536
+muxChannel 41 ADC_value 1023
+muxChannel 53 ADC_value 1023
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 6.***
+
+muxChannel 5 ADC_value 515
+muxChannel 17 ADC_value 532
+muxChannel 29 ADC_value 523
+muxChannel 41 ADC_value 30
+muxChannel 53 ADC_value 536
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 7.***
+
+muxChannel 5 ADC_value 523
+muxChannel 17 ADC_value 523
+muxChannel 29 ADC_value 528
+muxChannel 41 ADC_value 29
+muxChannel 53 ADC_value 529
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 8.***
+
+muxChannel 5 ADC_value 1023
+muxChannel 17 ADC_value 523
+muxChannel 29 ADC_value 528
+muxChannel 41 ADC_value 38
+muxChannel 53 ADC_value 528

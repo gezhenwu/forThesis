@@ -1,0 +1,4 @@
+set_clock_groups -logically_exclusive -group [get_clocks -include_generated_clocks clk128_clk_gen] -group [get_clocks -include_generated_clocks clk64_clk_gen]
+set_clock_groups -logically_exclusive -group [get_clocks -include_generated_clocks {clk128_clk_gen clk64_clk_gen}] -group [get_clocks -include_generated_clocks clk32_clk_gen]
+set_clock_groups -logically_exclusive -group [get_clocks -include_generated_clocks clk640_clk_gen] -group [get_clocks -include_generated_clocks clk320_clk_gen]
+set_clock_groups -logically_exclusive -group [get_clocks -include_generated_clocks {clk320_clk_gen clk640_clk_gen}] -group [get_clocks -include_generated_clocks clk160_clk_gen]

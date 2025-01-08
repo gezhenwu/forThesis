@@ -1,0 +1,2268 @@
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 0.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 262
+Timing ADC input 2: 529
+Timing ADC input 3: 585
+Timing ADC input 4: 716
+Timing ADC input 5: 959
+Timing ADC input 6: 611
+Timing ADC input 7: 583
+Timing ADC input 8: 618
+Timing ADC input 9: 31
+Timing ADC input 10: 32
+Timing ADC input 11: 34
+Timing ADC input 12: 32
+Timing ADC input 13: 32
+Timing ADC input 14: 473
+Timing ADC input 15: 511
+Lumi ADC input 1: 511
+Lumi ADC input 2: 511
+Lumi ADC input 3: 513
+Lumi ADC input 4: 511
+Lumi ADC input 5: 513
+Lumi ADC input 6: 511
+Lumi ADC input 7: 513
+Lumi ADC input 8: 512
+Lumi ADC input 9: 511
+Lumi ADC input 10: 512
+Lumi ADC input 11: 511
+Lumi ADC input 12: 511
+Lumi ADC input 13: 511
+Lumi ADC input 14: 511
+Lumi ADC input 15: 512
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 0 module 0 mux channel 0: 57
+channel 0 module 0 mux channel 1: 1023
+channel 0 module 0 mux channel 2: 1023
+channel 0 module 0 mux channel 5: 768
+channel 0 module 2 mux channel 6: 602
+channel 0 module 2 mux channel 7: 602
+channel 0 module 2 mux channel 8: 601
+channel 0 module 2 mux channel 11: 1023
+channel 0 module 4 mux channel 12: 602
+channel 0 module 4 mux channel 13: 602
+channel 0 module 4 mux channel 14: 602
+channel 0 module 4 mux channel 17: 1023
+channel 0 module 6 mux channel 18: 601
+channel 0 module 6 mux channel 19: 602
+channel 0 module 6 mux channel 20: 602
+channel 0 module 6 mux channel 23: 1023
+channel 0 module 8 mux channel 24: 601
+channel 0 module 8 mux channel 25: 602
+channel 0 module 8 mux channel 26: 602
+channel 0 module 8 mux channel 29: 1023
+channel 0 module 9 mux channel 30: 602
+channel 0 module 9 mux channel 31: 944
+channel 0 module 9 mux channel 32: 601
+channel 0 module 9 mux channel 35: 639
+channel 0 module 10 mux channel 36: 54
+channel 0 module 10 mux channel 37: 953
+channel 0 module 10 mux channel 38: 958
+channel 0 module 10 mux channel 41: 769
+channel 0 module 11 mux channel 42: 43
+channel 0 module 11 mux channel 43: 943
+channel 0 module 11 mux channel 44: 965
+channel 0 module 11 mux channel 47: 824
+channel 0 module 12 mux channel 48: 48
+channel 0 module 12 mux channel 49: 942
+channel 0 module 12 mux channel 50: 962
+channel 0 module 12 mux channel 53: 805
+channel 0 module 13 mux channel 54: 40
+channel 0 module 13 mux channel 55: 947
+channel 0 module 13 mux channel 56: 965
+channel 0 module 13 mux channel 59: 819
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 709
+Read TEMP from PEB: 681
+read out monitor signals of front-end modules
+chanel 0 module 9 chip 0 monitor_sig 0: 84
+chanel 0 module 9 chip 0 monitor_sig 1: 542
+chanel 0 module 9 chip 0 monitor_sig 2: 409
+chanel 0 module 9 chip 0 monitor_sig 3: 567
+chanel 0 module 9 chip 0 monitor_sig 4: 473
+chanel 0 module 9 chip 0 monitor_sig 5: 357
+chanel 0 module 9 chip 0 monitor_sig 6: 874
+chanel 0 module 9 chip 0 monitor_sig 7: 634
+chanel 0 module 9 chip 0 monitor_sig 8: 961
+chanel 0 module 9 chip 0 monitor_sig 9: 602
+chanel 0 module 9 chip 0 monitor_sig 10: 5
+chanel 0 module 9 chip 0 monitor_sig 11: 706
+chanel 0 module 9 chip 0 monitor_sig 12: 169
+chanel 0 module 9 chip 0 monitor_sig 13: 302
+chanel 0 module 9 chip 0 monitor_sig 14: 0
+chanel 0 module 9 chip 0 monitor_sig 15: 495
+chanel 0 module 9 chip 0 monitor_sig 16: 486
+chanel 0 module 9 chip 0 monitor_sig 17: 598
+chanel 0 module 9 chip 0 monitor_sig 18: 294
+chanel 0 module 9 chip 0 monitor_sig 19: 363
+chanel 0 module 9 chip 0 monitor_sig 20: 328
+chanel 0 module 9 chip 0 monitor_sig 21: 938
+chanel 0 module 9 chip 0 monitor_sig 22: 630
+chanel 0 module 9 chip 0 monitor_sig 23: 419
+chanel 0 module 9 chip 0 monitor_sig 24: 354
+chanel 0 module 9 chip 0 monitor_sig 25: 323
+chanel 0 module 9 chip 0 monitor_sig 26: 474
+chanel 0 module 9 chip 0 monitor_sig 27: 953
+chanel 0 module 9 chip 0 monitor_sig 28: 1022
+chanel 0 module 9 chip 0 monitor_sig 29: 666
+chanel 0 module 9 chip 0 monitor_sig 30: 748
+chanel 0 module 9 chip 0 monitor_sig 31: 829
+chanel 0 module 9 chip 1 monitor_sig 0: 140
+chanel 0 module 9 chip 1 monitor_sig 1: 542
+chanel 0 module 9 chip 1 monitor_sig 2: 434
+chanel 0 module 9 chip 1 monitor_sig 3: 572
+chanel 0 module 9 chip 1 monitor_sig 4: 494
+chanel 0 module 9 chip 1 monitor_sig 5: 365
+chanel 0 module 9 chip 1 monitor_sig 6: 868
+chanel 0 module 9 chip 1 monitor_sig 7: 621
+chanel 0 module 9 chip 1 monitor_sig 8: 985
+chanel 0 module 9 chip 1 monitor_sig 9: 620
+chanel 0 module 9 chip 1 monitor_sig 10: 17
+chanel 0 module 9 chip 1 monitor_sig 11: 716
+chanel 0 module 9 chip 1 monitor_sig 12: 194
+chanel 0 module 9 chip 1 monitor_sig 13: 319
+chanel 0 module 9 chip 1 monitor_sig 14: 0
+chanel 0 module 9 chip 1 monitor_sig 15: 493
+chanel 0 module 9 chip 1 monitor_sig 16: 490
+chanel 0 module 9 chip 1 monitor_sig 17: 498
+chanel 0 module 9 chip 1 monitor_sig 18: 0
+chanel 0 module 9 chip 1 monitor_sig 19: 374
+chanel 0 module 9 chip 1 monitor_sig 20: 341
+chanel 0 module 9 chip 1 monitor_sig 21: 945
+chanel 0 module 9 chip 1 monitor_sig 22: 666
+chanel 0 module 9 chip 1 monitor_sig 23: 425
+chanel 0 module 9 chip 1 monitor_sig 24: 371
+chanel 0 module 9 chip 1 monitor_sig 25: 336
+chanel 0 module 9 chip 1 monitor_sig 26: 471
+chanel 0 module 9 chip 1 monitor_sig 27: 978
+chanel 0 module 9 chip 1 monitor_sig 28: 1023
+chanel 0 module 9 chip 1 monitor_sig 29: 692
+chanel 0 module 9 chip 1 monitor_sig 30: 775
+chanel 0 module 9 chip 1 monitor_sig 31: 856
+chanel 0 module 10 chip 0 monitor_sig 0: 123
+chanel 0 module 10 chip 0 monitor_sig 1: 549
+chanel 0 module 10 chip 0 monitor_sig 2: 434
+chanel 0 module 10 chip 0 monitor_sig 3: 571
+chanel 0 module 10 chip 0 monitor_sig 4: 497
+chanel 0 module 10 chip 0 monitor_sig 5: 350
+chanel 0 module 10 chip 0 monitor_sig 6: 878
+chanel 0 module 10 chip 0 monitor_sig 7: 644
+chanel 0 module 10 chip 0 monitor_sig 8: 972
+chanel 0 module 10 chip 0 monitor_sig 9: 603
+chanel 0 module 10 chip 0 monitor_sig 10: 0
+chanel 0 module 10 chip 0 monitor_sig 11: 715
+chanel 0 module 10 chip 0 monitor_sig 12: 181
+chanel 0 module 10 chip 0 monitor_sig 13: 305
+chanel 0 module 10 chip 0 monitor_sig 14: 0
+chanel 0 module 10 chip 0 monitor_sig 15: 482
+chanel 0 module 10 chip 0 monitor_sig 16: 487
+chanel 0 module 10 chip 0 monitor_sig 17: 490
+chanel 0 module 10 chip 0 monitor_sig 18: 883
+chanel 0 module 10 chip 0 monitor_sig 19: 357
+chanel 0 module 10 chip 0 monitor_sig 20: 326
+chanel 0 module 10 chip 0 monitor_sig 21: 964
+chanel 0 module 10 chip 0 monitor_sig 22: 614
+chanel 0 module 10 chip 0 monitor_sig 23: 407
+chanel 0 module 10 chip 0 monitor_sig 24: 356
+chanel 0 module 10 chip 0 monitor_sig 25: 322
+chanel 0 module 10 chip 0 monitor_sig 26: 449
+chanel 0 module 10 chip 0 monitor_sig 27: 964
+chanel 0 module 10 chip 0 monitor_sig 28: 1023
+chanel 0 module 10 chip 0 monitor_sig 29: 668
+chanel 0 module 10 chip 0 monitor_sig 30: 759
+chanel 0 module 10 chip 0 monitor_sig 31: 838
+chanel 0 module 10 chip 1 monitor_sig 0: 318
+chanel 0 module 10 chip 1 monitor_sig 1: 569
+chanel 0 module 10 chip 1 monitor_sig 2: 452
+chanel 0 module 10 chip 1 monitor_sig 3: 597
+chanel 0 module 10 chip 1 monitor_sig 4: 503
+chanel 0 module 10 chip 1 monitor_sig 5: 354
+chanel 0 module 10 chip 1 monitor_sig 6: 884
+chanel 0 module 10 chip 1 monitor_sig 7: 622
+chanel 0 module 10 chip 1 monitor_sig 8: 948
+chanel 0 module 10 chip 1 monitor_sig 9: 591
+chanel 0 module 10 chip 1 monitor_sig 10: 5
+chanel 0 module 10 chip 1 monitor_sig 11: 720
+chanel 0 module 10 chip 1 monitor_sig 12: 187
+chanel 0 module 10 chip 1 monitor_sig 13: 309
+chanel 0 module 10 chip 1 monitor_sig 14: 0
+chanel 0 module 10 chip 1 monitor_sig 15: 483
+chanel 0 module 10 chip 1 monitor_sig 16: 490
+chanel 0 module 10 chip 1 monitor_sig 17: 450
+chanel 0 module 10 chip 1 monitor_sig 18: 673
+chanel 0 module 10 chip 1 monitor_sig 19: 363
+chanel 0 module 10 chip 1 monitor_sig 20: 330
+chanel 0 module 10 chip 1 monitor_sig 21: 968
+chanel 0 module 10 chip 1 monitor_sig 22: 698
+chanel 0 module 10 chip 1 monitor_sig 23: 412
+chanel 0 module 10 chip 1 monitor_sig 24: 362
+chanel 0 module 10 chip 1 monitor_sig 25: 330
+chanel 0 module 10 chip 1 monitor_sig 26: 442
+chanel 0 module 10 chip 1 monitor_sig 27: 941
+[SerialComm] deleting instance after 6472 transactions.
+chanel 0 module 10 chip 1 monitor_sig 28: 1023
+chanel 0 module 10 chip 1 monitor_sig 29: 655
+chanel 0 module 10 chip 1 monitor_sig 30: 734
+chanel 0 module 10 chip 1 monitor_sig 31: 827
+chanel 0 module 11 chip 0 monitor_sig 0: 313
+chanel 0 module 11 chip 0 monitor_sig 1: 558
+chanel 0 module 11 chip 0 monitor_sig 2: 442
+chanel 0 module 11 chip 0 monitor_sig 3: 594
+chanel 0 module 11 chip 0 monitor_sig 4: 513
+chanel 0 module 11 chip 0 monitor_sig 5: 343
+chanel 0 module 11 chip 0 monitor_sig 6: 877
+chanel 0 module 11 chip 0 monitor_sig 7: 653
+chanel 0 module 11 chip 0 monitor_sig 8: 939
+chanel 0 module 11 chip 0 monitor_sig 9: 581
+chanel 0 module 11 chip 0 monitor_sig 10: 1
+chanel 0 module 11 chip 0 monitor_sig 11: 697
+chanel 0 module 11 chip 0 monitor_sig 12: 182
+chanel 0 module 11 chip 0 monitor_sig 13: 301
+chanel 0 module 11 chip 0 monitor_sig 14: 0
+chanel 0 module 11 chip 0 monitor_sig 15: 470
+chanel 0 module 11 chip 0 monitor_sig 16: 478
+chanel 0 module 11 chip 0 monitor_sig 17: 466
+chanel 0 module 11 chip 0 monitor_sig 18: 0
+chanel 0 module 11 chip 0 monitor_sig 19: 350
+chanel 0 module 11 chip 0 monitor_sig 20: 319
+chanel 0 module 11 chip 0 monitor_sig 21: 965
+chanel 0 module 11 chip 0 monitor_sig 22: 697
+chanel 0 module 11 chip 0 monitor_sig 23: 401
+chanel 0 module 11 chip 0 monitor_sig 24: 350
+chanel 0 module 11 chip 0 monitor_sig 25: 317
+chanel 0 module 11 chip 0 monitor_sig 26: 422
+chanel 0 module 11 chip 0 monitor_sig 27: 933
+chanel 0 module 11 chip 0 monitor_sig 28: 1023
+chanel 0 module 11 chip 0 monitor_sig 29: 653
+chanel 0 module 11 chip 0 monitor_sig 30: 730
+chanel 0 module 11 chip 0 monitor_sig 31: 812
+chanel 0 module 12 chip 0 monitor_sig 0: 462
+chanel 0 module 12 chip 0 monitor_sig 1: 524
+chanel 0 module 12 chip 0 monitor_sig 2: 429
+chanel 0 module 12 chip 0 monitor_sig 3: 564
+chanel 0 module 12 chip 0 monitor_sig 4: 492
+chanel 0 module 12 chip 0 monitor_sig 5: 354
+chanel 0 module 12 chip 0 monitor_sig 6: 862
+chanel 0 module 12 chip 0 monitor_sig 7: 625
+chanel 0 module 12 chip 0 monitor_sig 8: 983
+chanel 0 module 12 chip 0 monitor_sig 9: 610
+chanel 0 module 12 chip 0 monitor_sig 10: 6
+chanel 0 module 12 chip 0 monitor_sig 11: 738
+chanel 0 module 12 chip 0 monitor_sig 12: 185
+chanel 0 module 12 chip 0 monitor_sig 13: 307
+chanel 0 module 12 chip 0 monitor_sig 14: 0
+chanel 0 module 12 chip 0 monitor_sig 15: 499
+chanel 0 module 12 chip 0 monitor_sig 16: 478
+chanel 0 module 12 chip 0 monitor_sig 17: 417
+chanel 0 module 12 chip 0 monitor_sig 18: 719
+chanel 0 module 12 chip 0 monitor_sig 19: 362
+chanel 0 module 12 chip 0 monitor_sig 20: 335
+chanel 0 module 12 chip 0 monitor_sig 21: 945
+chanel 0 module 12 chip 0 monitor_sig 22: 711
+chanel 0 module 12 chip 0 monitor_sig 23: 413
+chanel 0 module 12 chip 0 monitor_sig 24: 361
+chanel 0 module 12 chip 0 monitor_sig 25: 331
+chanel 0 module 12 chip 0 monitor_sig 26: 457
+chanel 0 module 12 chip 0 monitor_sig 27: 975
+chanel 0 module 12 chip 0 monitor_sig 28: 1023
+chanel 0 module 12 chip 0 monitor_sig 29: 690
+chanel 0 module 12 chip 0 monitor_sig 30: 785
+chanel 0 module 12 chip 0 monitor_sig 31: 888
+chanel 0 module 12 chip 1 monitor_sig 0: 392
+chanel 0 module 12 chip 1 monitor_sig 1: 529
+chanel 0 module 12 chip 1 monitor_sig 2: 426
+chanel 0 module 12 chip 1 monitor_sig 3: 590
+chanel 0 module 12 chip 1 monitor_sig 4: 475
+chanel 0 module 12 chip 1 monitor_sig 5: 356
+chanel 0 module 12 chip 1 monitor_sig 6: 865
+chanel 0 module 12 chip 1 monitor_sig 7: 601
+chanel 0 module 12 chip 1 monitor_sig 8: 971
+chanel 0 module 12 chip 1 monitor_sig 9: 601
+chanel 0 module 12 chip 1 monitor_sig 10: 0
+chanel 0 module 12 chip 1 monitor_sig 11: 724
+chanel 0 module 12 chip 1 monitor_sig 12: 180
+chanel 0 module 12 chip 1 monitor_sig 13: 301
+chanel 0 module 12 chip 1 monitor_sig 14: 0
+chanel 0 module 12 chip 1 monitor_sig 15: 496
+chanel 0 module 12 chip 1 monitor_sig 16: 475
+chanel 0 module 12 chip 1 monitor_sig 17: 417
+chanel 0 module 12 chip 1 monitor_sig 18: 474
+chanel 0 module 12 chip 1 monitor_sig 19: 361
+chanel 0 module 12 chip 1 monitor_sig 20: 332
+chanel 0 module 12 chip 1 monitor_sig 21: 948
+chanel 0 module 12 chip 1 monitor_sig 22: 707
+chanel 0 module 12 chip 1 monitor_sig 23: 411
+chanel 0 module 12 chip 1 monitor_sig 24: 358
+chanel 0 module 12 chip 1 monitor_sig 25: 330
+chanel 0 module 12 chip 1 monitor_sig 26: 454
+chanel 0 module 12 chip 1 monitor_sig 27: 962
+chanel 0 module 12 chip 1 monitor_sig 28: 1023
+chanel 0 module 12 chip 1 monitor_sig 29: 678
+chanel 0 module 12 chip 1 monitor_sig 30: 776
+chanel 0 module 12 chip 1 monitor_sig 31: 857
+chanel 0 module 13 chip 0 monitor_sig 0: 201
+chanel 0 module 13 chip 0 monitor_sig 1: 572
+chanel 0 module 13 chip 0 monitor_sig 2: 458
+chanel 0 module 13 chip 0 monitor_sig 3: 589
+chanel 0 module 13 chip 0 monitor_sig 4: 527
+chanel 0 module 13 chip 0 monitor_sig 5: 337
+chanel 0 module 13 chip 0 monitor_sig 6: 881
+chanel 0 module 13 chip 0 monitor_sig 7: 658
+chanel 0 module 13 chip 0 monitor_sig 8: 942
+chanel 0 module 13 chip 0 monitor_sig 9: 579
+chanel 0 module 13 chip 0 monitor_sig 10: 0
+chanel 0 module 13 chip 0 monitor_sig 11: 681
+chanel 0 module 13 chip 0 monitor_sig 12: 173
+chanel 0 module 13 chip 0 monitor_sig 13: 293
+chanel 0 module 13 chip 0 monitor_sig 14: 0
+chanel 0 module 13 chip 0 monitor_sig 15: 466
+chanel 0 module 13 chip 0 monitor_sig 16: 478
+chanel 0 module 13 chip 0 monitor_sig 17: 390
+chanel 0 module 13 chip 0 monitor_sig 18: 0
+chanel 0 module 13 chip 0 monitor_sig 19: 343
+chanel 0 module 13 chip 0 monitor_sig 20: 313
+chanel 0 module 13 chip 0 monitor_sig 21: 967
+chanel 0 module 13 chip 0 monitor_sig 22: 682
+chanel 0 module 13 chip 0 monitor_sig 23: 394
+chanel 0 module 13 chip 0 monitor_sig 24: 345
+chanel 0 module 13 chip 0 monitor_sig 25: 314
+chanel 0 module 13 chip 0 monitor_sig 26: 404
+chanel 0 module 13 chip 0 monitor_sig 27: 934
+chanel 0 module 13 chip 0 monitor_sig 28: 1011
+chanel 0 module 13 chip 0 monitor_sig 29: 646
+chanel 0 module 13 chip 0 monitor_sig 30: 728
+chanel 0 module 13 chip 0 monitor_sig 31: 805
+chanel 0 module 13 chip 1 monitor_sig 0: 247
+chanel 0 module 13 chip 1 monitor_sig 1: 586
+chanel 0 module 13 chip 1 monitor_sig 2: 471
+chanel 0 module 13 chip 1 monitor_sig 3: 616
+chanel 0 module 13 chip 1 monitor_sig 4: 515
+chanel 0 module 13 chip 1 monitor_sig 5: 338
+chanel 0 module 13 chip 1 monitor_sig 6: 885
+chanel 0 module 13 chip 1 monitor_sig 7: 650
+chanel 0 module 13 chip 1 monitor_sig 8: 904
+chanel 0 module 13 chip 1 monitor_sig 9: 560
+chanel 0 module 13 chip 1 monitor_sig 10: 0
+chanel 0 module 13 chip 1 monitor_sig 11: 671
+chanel 0 module 13 chip 1 monitor_sig 12: 176
+chanel 0 module 13 chip 1 monitor_sig 13: 297
+chanel 0 module 13 chip 1 monitor_sig 14: 0
+chanel 0 module 13 chip 1 monitor_sig 15: 493
+chanel 0 module 13 chip 1 monitor_sig 16: 482
+chanel 0 module 13 chip 1 monitor_sig 17: 397
+chanel 0 module 13 chip 1 monitor_sig 18: 275
+chanel 0 module 13 chip 1 monitor_sig 19: 348
+chanel 0 module 13 chip 1 monitor_sig 20: 318
+chanel 0 module 13 chip 1 monitor_sig 21: 969
+chanel 0 module 13 chip 1 monitor_sig 22: 704
+chanel 0 module 13 chip 1 monitor_sig 23: 397
+chanel 0 module 13 chip 1 monitor_sig 24: 350
+chanel 0 module 13 chip 1 monitor_sig 25: 320
+chanel 0 module 13 chip 1 monitor_sig 26: 396
+chanel 0 module 13 chip 1 monitor_sig 27: 898
+chanel 0 module 13 chip 1 monitor_sig 28: 994
+chanel 0 module 13 chip 1 monitor_sig 29: 624
+chanel 0 module 13 chip 1 monitor_sig 30: 710
+chanel 0 module 13 chip 1 monitor_sig 31: 785
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+[SerialComm] deleting instance after 802 transactions.
+
+***FLX-device number is 0. GBT-link number is 1.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 259
+Timing ADC input 2: 529
+Timing ADC input 3: 592
+Timing ADC input 4: 707
+Timing ADC input 5: 946
+Timing ADC input 6: 569
+Timing ADC input 7: 592
+Timing ADC input 8: 625
+Timing ADC input 9: 34
+Timing ADC input 10: 34
+Timing ADC input 11: 37
+Timing ADC input 12: 35
+Timing ADC input 13: 34
+Timing ADC input 14: 512
+Timing ADC input 15: 514
+Lumi ADC input 1: 514
+Lumi ADC input 2: 514
+Lumi ADC input 3: 513
+Lumi ADC input 4: 514
+Lumi ADC input 5: 514
+Lumi ADC input 6: 514
+Lumi ADC input 7: 514
+Lumi ADC input 8: 514
+Lumi ADC input 9: 514
+Lumi ADC input 10: 514
+Lumi ADC input 11: 514
+Lumi ADC input 12: 514
+Lumi ADC input 13: 515
+Lumi ADC input 14: 514
+Lumi ADC input 15: 514
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 1 module 0 mux channel 0: 69
+channel 1 module 0 mux channel 1: 1023
+channel 1 module 0 mux channel 2: 1023
+channel 1 module 0 mux channel 5: 775
+channel 1 module 2 mux channel 6: 613
+channel 1 module 2 mux channel 7: 614
+channel 1 module 2 mux channel 8: 613
+channel 1 module 2 mux channel 11: 1023
+channel 1 module 4 mux channel 12: 613
+channel 1 module 4 mux channel 13: 614
+channel 1 module 4 mux channel 14: 613
+channel 1 module 4 mux channel 17: 1023
+channel 1 module 6 mux channel 18: 614
+channel 1 module 6 mux channel 19: 614
+channel 1 module 6 mux channel 20: 613
+channel 1 module 6 mux channel 23: 1023
+channel 1 module 8 mux channel 24: 613
+channel 1 module 8 mux channel 25: 613
+channel 1 module 8 mux channel 26: 613
+channel 1 module 8 mux channel 29: 1023
+channel 1 module 9 mux channel 30: 614
+channel 1 module 9 mux channel 31: 613
+channel 1 module 9 mux channel 32: 613
+channel 1 module 9 mux channel 35: 1023
+channel 1 module 10 mux channel 36: 614
+channel 1 module 10 mux channel 37: 613
+channel 1 module 10 mux channel 38: 613
+channel 1 module 10 mux channel 41: 1023
+channel 1 module 11 mux channel 42: 613
+channel 1 module 11 mux channel 43: 613
+channel 1 module 11 mux channel 44: 614
+channel 1 module 11 mux channel 47: 1023
+channel 1 module 12 mux channel 48: 613
+channel 1 module 12 mux channel 49: 613
+channel 1 module 12 mux channel 50: 613
+channel 1 module 12 mux channel 53: 1023
+channel 1 module 13 mux channel 54: 614
+channel 1 module 13 mux channel 55: 613
+channel 1 module 13 mux channel 56: 613
+channel 1 module 13 mux channel 59: 1023
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 720
+Read TEMP from PEB: 638
+read out monitor signals of front-end modules
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+[SerialComm] deleting instance after 802 transactions.
+
+***FLX-device number is 0. GBT-link number is 2.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 282
+Timing ADC input 2: 529
+Timing ADC input 3: 579
+Timing ADC input 4: 711
+Timing ADC input 5: 969
+Timing ADC input 6: 554
+Timing ADC input 7: 622
+Timing ADC input 8: 624
+Timing ADC input 9: 36
+Timing ADC input 10: 37
+Timing ADC input 11: 38
+Timing ADC input 12: 38
+Timing ADC input 13: 36
+Timing ADC input 14: 493
+Timing ADC input 15: 517
+Lumi ADC input 1: 517
+Lumi ADC input 2: 517
+Lumi ADC input 3: 517
+Lumi ADC input 4: 517
+Lumi ADC input 5: 517
+Lumi ADC input 6: 518
+Lumi ADC input 7: 517
+Lumi ADC input 8: 517
+Lumi ADC input 9: 517
+Lumi ADC input 10: 517
+Lumi ADC input 11: 517
+Lumi ADC input 12: 518
+Lumi ADC input 13: 518
+Lumi ADC input 14: 518
+Lumi ADC input 15: 517
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 2 module 0 mux channel 0: 614
+channel 2 module 0 mux channel 1: 614
+channel 2 module 0 mux channel 2: 614
+channel 2 module 0 mux channel 5: 1023
+channel 2 module 2 mux channel 6: 615
+channel 2 module 2 mux channel 7: 614
+channel 2 module 2 mux channel 8: 615
+channel 2 module 2 mux channel 11: 1023
+channel 2 module 4 mux channel 12: 615
+channel 2 module 4 mux channel 13: 614
+channel 2 module 4 mux channel 14: 614
+channel 2 module 4 mux channel 17: 1023
+channel 2 module 6 mux channel 18: 614
+channel 2 module 6 mux channel 19: 614
+channel 2 module 6 mux channel 20: 614
+channel 2 module 6 mux channel 23: 1023
+channel 2 module 8 mux channel 24: 614
+channel 2 module 8 mux channel 25: 614
+channel 2 module 8 mux channel 26: 615
+channel 2 module 8 mux channel 29: 1023
+channel 2 module 9 mux channel 30: 615
+channel 2 module 9 mux channel 31: 614
+channel 2 module 9 mux channel 32: 615
+channel 2 module 9 mux channel 35: 1023
+channel 2 module 10 mux channel 36: 615
+channel 2 module 10 mux channel 37: 614
+channel 2 module 10 mux channel 38: 614
+channel 2 module 10 mux channel 41: 1023
+channel 2 module 11 mux channel 42: 614
+channel 2 module 11 mux channel 43: 614
+channel 2 module 11 mux channel 44: 614
+channel 2 module 11 mux channel 47: 1023
+channel 2 module 12 mux channel 48: 614
+channel 2 module 12 mux channel 49: 614
+channel 2 module 12 mux channel 50: 615
+channel 2 module 12 mux channel 53: 1023
+channel 2 module 13 mux channel 54: 614
+channel 2 module 13 mux channel 55: 614
+channel 2 module 13 mux channel 56: 614
+channel 2 module 13 mux channel 59: 1023
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 724
+Read TEMP from PEB: 650
+read out monitor signals of front-end modules
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 3.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 293
+Timing ADC input 2: 486
+Timing ADC input 3: 577
+Timing ADC input 4: 702
+Timing ADC input 5: 957
+Timing ADC input 6: 603
+Timing ADC input 7: 576
+Timing ADC input 8: 612
+Timing ADC input 9: 26
+Timing ADC input 10: 27
+Timing ADC input 11: 29
+Timing ADC input 12: 27
+Timing ADC input 13: 26
+Timing ADC input 14: 473
+Timing ADC input 15: 507
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 3 module 0 mux channel 0: 46
+channel 3 module 0 mux channel 1: 1023
+channel 3 module 0 mux channel 2: 1023
+channel 3 module 0 mux channel 5: 759
+channel 3 module 2 mux channel 6: 45
+channel 3 module 2 mux channel 7: 1023
+channel 3 module 2 mux channel 8: 1023
+channel 3 module 2 mux channel 11: 759
+channel 3 module 4 mux channel 12: 50
+channel 3 module 4 mux channel 13: 1023
+channel 3 module 4 mux channel 14: 1023
+channel 3 module 4 mux channel 17: 773
+channel 3 module 6 mux channel 18: 50
+channel 3 module 6 mux channel 19: 1023
+channel 3 module 6 mux channel 20: 1023
+channel 3 module 6 mux channel 23: 772
+channel 3 module 8 mux channel 24: 44
+channel 3 module 8 mux channel 25: 988
+channel 3 module 8 mux channel 26: 1004
+channel 3 module 8 mux channel 29: 785
+channel 3 module 9 mux channel 30: 44
+channel 3 module 9 mux channel 31: 987
+channel 3 module 9 mux channel 32: 1003
+channel 3 module 9 mux channel 35: 785
+channel 3 module 10 mux channel 36: 43
+channel 3 module 10 mux channel 37: 1023
+channel 3 module 10 mux channel 38: 1023
+channel 3 module 10 mux channel 41: 737
+channel 3 module 11 mux channel 42: 43
+channel 3 module 11 mux channel 43: 1023
+channel 3 module 11 mux channel 44: 1023
+channel 3 module 11 mux channel 47: 737
+channel 3 module 12 mux channel 48: 46
+channel 3 module 12 mux channel 49: 939
+channel 3 module 12 mux channel 50: 973
+channel 3 module 12 mux channel 53: 738
+channel 3 module 13 mux channel 54: 45
+channel 3 module 13 mux channel 55: 939
+channel 3 module 13 mux channel 56: 974
+channel 3 module 13 mux channel 59: 739
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 693
+Read TEMP from PEB: 590
+read out monitor signals of front-end modules
+chanel 3 module 0 chip 0 monitor_sig 0: 422
+chanel 3 module 0 chip 0 monitor_sig 1: 789
+chanel 3 module 0 chip 0 monitor_sig 2: 337
+chanel 3 module 0 chip 0 monitor_sig 3: 498
+chanel 3 module 0 chip 0 monitor_sig 4: 1023
+chanel 3 module 0 chip 0 monitor_sig 5: 410
+chanel 3 module 0 chip 0 monitor_sig 6: 836
+chanel 3 module 0 chip 0 monitor_sig 7: 0
+chanel 3 module 0 chip 0 monitor_sig 8: 1023
+chanel 3 module 0 chip 0 monitor_sig 9: 846
+chanel 3 module 0 chip 0 monitor_sig 10: 743
+chanel 3 module 0 chip 0 monitor_sig 11: 196
+chanel 3 module 0 chip 0 monitor_sig 12: 324
+chanel 3 module 0 chip 0 monitor_sig 13: 859
+chanel 3 module 0 chip 0 monitor_sig 14: 219
+chanel 3 module 0 chip 0 monitor_sig 15: 347
+chanel 3 module 0 chip 0 monitor_sig 16: 0
+chanel 3 module 0 chip 0 monitor_sig 17: 711
+chanel 3 module 0 chip 0 monitor_sig 18: 600
+chanel 3 module 0 chip 0 monitor_sig 19: 378
+chanel 3 module 0 chip 0 monitor_sig 20: 343
+chanel 3 module 0 chip 0 monitor_sig 21: 385
+chanel 3 module 0 chip 0 monitor_sig 22: 934
+chanel 3 module 0 chip 0 monitor_sig 23: 617
+chanel 3 module 0 chip 0 monitor_sig 24: 437
+chanel 3 module 0 chip 0 monitor_sig 25: 361
+chanel 3 module 0 chip 0 monitor_sig 26: 93
+chanel 3 module 0 chip 0 monitor_sig 27: 108
+chanel 3 module 0 chip 0 monitor_sig 28: 0
+chanel 3 module 0 chip 0 monitor_sig 29: 1023
+chanel 3 module 0 chip 0 monitor_sig 30: 1023
+chanel 3 module 0 chip 0 monitor_sig 31: 1023
+chanel 3 module 0 chip 1 monitor_sig 0: 1023
+chanel 3 module 0 chip 1 monitor_sig 1: 1023
+chanel 3 module 0 chip 1 monitor_sig 2: 1023
+chanel 3 module 0 chip 1 monitor_sig 3: 1023
+chanel 3 module 0 chip 1 monitor_sig 4: 1023
+chanel 3 module 0 chip 1 monitor_sig 5: 1023
+chanel 3 module 0 chip 1 monitor_sig 6: 1023
+chanel 3 module 0 chip 1 monitor_sig 7: 1023
+chanel 3 module 0 chip 1 monitor_sig 8: 1023
+chanel 3 module 0 chip 1 monitor_sig 9: 1023
+chanel 3 module 0 chip 1 monitor_sig 10: 1023
+chanel 3 module 0 chip 1 monitor_sig 11: 1023
+chanel 3 module 0 chip 1 monitor_sig 12: 1023
+chanel 3 module 0 chip 1 monitor_sig 13: 1023
+chanel 3 module 0 chip 1 monitor_sig 14: 1023
+chanel 3 module 0 chip 1 monitor_sig 15: 1023
+chanel 3 module 0 chip 1 monitor_sig 16: 1023
+chanel 3 module 0 chip 1 monitor_sig 17: 1023
+chanel 3 module 0 chip 1 monitor_sig 18: 1023
+chanel 3 module 0 chip 1 monitor_sig 19: 1023
+chanel 3 module 0 chip 1 monitor_sig 20: 1023
+chanel 3 module 0 chip 1 monitor_sig 21: 1023
+chanel 3 module 0 chip 1 monitor_sig 22: 1023
+chanel 3 module 0 chip 1 monitor_sig 23: 1023
+chanel 3 module 0 chip 1 monitor_sig 24: 1023
+chanel 3 module 0 chip 1 monitor_sig 25: 1023
+chanel 3 module 0 chip 1 monitor_sig 26: 1023
+chanel 3 module 0 chip 1 monitor_sig 27: 1023
+chanel 3 module 0 chip 1 monitor_sig 28: 1023
+chanel 3 module 0 chip 1 monitor_sig 29: 1023
+chanel 3 module 0 chip 1 monitor_sig 30: 1023
+chanel 3 module 0 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 3 module 4 chip 0 monitor_sig 0: 1023
+chanel 3 module 4 chip 0 monitor_sig 1: 1023
+chanel 3 module 4 chip 0 monitor_sig 2: 1023
+chanel 3 module 4 chip 0 monitor_sig 3: 1023
+chanel 3 module 4 chip 0 monitor_sig 4: 1023
+chanel 3 module 4 chip 0 monitor_sig 5: 1023
+chanel 3 module 4 chip 0 monitor_sig 6: 1023
+chanel 3 module 4 chip 0 monitor_sig 7: 1023
+chanel 3 module 4 chip 0 monitor_sig 8: 1023
+chanel 3 module 4 chip 0 monitor_sig 9: 1023
+chanel 3 module 4 chip 0 monitor_sig 10: 1023
+chanel 3 module 4 chip 0 monitor_sig 11: 1023
+chanel 3 module 4 chip 0 monitor_sig 12: 1023
+chanel 3 module 4 chip 0 monitor_sig 13: 1023
+chanel 3 module 4 chip 0 monitor_sig 14: 1023
+chanel 3 module 4 chip 0 monitor_sig 15: 1023
+chanel 3 module 4 chip 0 monitor_sig 16: 1023
+chanel 3 module 4 chip 0 monitor_sig 17: 1023
+chanel 3 module 4 chip 0 monitor_sig 18: 1023
+chanel 3 module 4 chip 0 monitor_sig 19: 1023
+chanel 3 module 4 chip 0 monitor_sig 20: 1023
+chanel 3 module 4 chip 0 monitor_sig 21: 1023
+chanel 3 module 4 chip 0 monitor_sig 22: 1023
+chanel 3 module 4 chip 0 monitor_sig 23: 1023
+chanel 3 module 4 chip 0 monitor_sig 24: 1023
+chanel 3 module 4 chip 0 monitor_sig 25: 1023
+chanel 3 module 4 chip 0 monitor_sig 26: 1023
+chanel 3 module 4 chip 0 monitor_sig 27: 1023
+chanel 3 module 4 chip 0 monitor_sig 28: 1023
+chanel 3 module 4 chip 0 monitor_sig 29: 1023
+chanel 3 module 4 chip 0 monitor_sig 30: 1023
+chanel 3 module 4 chip 0 monitor_sig 31: 1023
+chanel 3 module 4 chip 1 monitor_sig 0: 1023
+chanel 3 module 4 chip 1 monitor_sig 1: 1023
+chanel 3 module 4 chip 1 monitor_sig 2: 1023
+chanel 3 module 4 chip 1 monitor_sig 3: 1023
+chanel 3 module 4 chip 1 monitor_sig 4: 1023
+chanel 3 module 4 chip 1 monitor_sig 5: 1023
+chanel 3 module 4 chip 1 monitor_sig 6: 1023
+chanel 3 module 4 chip 1 monitor_sig 7: 1023
+chanel 3 module 4 chip 1 monitor_sig 8: 1023
+chanel 3 module 4 chip 1 monitor_sig 9: 1023
+chanel 3 module 4 chip 1 monitor_sig 10: 1023
+chanel 3 module 4 chip 1 monitor_sig 11: 1023
+chanel 3 module 4 chip 1 monitor_sig 12: 1023
+chanel 3 module 4 chip 1 monitor_sig 13: 1023
+chanel 3 module 4 chip 1 monitor_sig 14: 1023
+chanel 3 module 4 chip 1 monitor_sig 15: 1023
+chanel 3 module 4 chip 1 monitor_sig 16: 1023
+chanel 3 module 4 chip 1 monitor_sig 17: 1023
+chanel 3 module 4 chip 1 monitor_sig 18: 1023
+chanel 3 module 4 chip 1 monitor_sig 19: 1023
+chanel 3 module 4 chip 1 monitor_sig 20: 1023
+chanel 3 module 4 chip 1 monitor_sig 21: 1023
+chanel 3 module 4 chip 1 monitor_sig 22: 1023
+chanel 3 module 4 chip 1 monitor_sig 23: 1023
+chanel 3 module 4 chip 1 monitor_sig 24: 1023
+chanel 3 module 4 chip 1 monitor_sig 25: 1023
+chanel 3 module 4 chip 1 monitor_sig 26: 1023
+chanel 3 module 4 chip 1 monitor_sig 27: 1023
+chanel 3 module 4 chip 1 monitor_sig 28: 1023
+chanel 3 module 4 chip 1 monitor_sig 29: 1023
+chanel 3 module 4 chip 1 monitor_sig 30: 1023
+chanel 3 module 4 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+[SerialComm] deleting instance after 6282 transactions.
+chanel 3 module 8 chip 0 monitor_sig 0: 464
+chanel 3 module 8 chip 0 monitor_sig 1: 843
+chanel 3 module 8 chip 0 monitor_sig 2: 373
+chanel 3 module 8 chip 0 monitor_sig 3: 555
+chanel 3 module 8 chip 0 monitor_sig 4: 1023
+chanel 3 module 8 chip 0 monitor_sig 5: 412
+chanel 3 module 8 chip 0 monitor_sig 6: 903
+chanel 3 module 8 chip 0 monitor_sig 7: 0
+chanel 3 module 8 chip 0 monitor_sig 8: 1023
+chanel 3 module 8 chip 0 monitor_sig 9: 910
+chanel 3 module 8 chip 0 monitor_sig 10: 803
+chanel 3 module 8 chip 0 monitor_sig 11: 197
+chanel 3 module 8 chip 0 monitor_sig 12: 322
+chanel 3 module 8 chip 0 monitor_sig 13: 838
+chanel 3 module 8 chip 0 monitor_sig 14: 221
+chanel 3 module 8 chip 0 monitor_sig 15: 344
+chanel 3 module 8 chip 0 monitor_sig 16: 0
+chanel 3 module 8 chip 0 monitor_sig 17: 650
+chanel 3 module 8 chip 0 monitor_sig 18: 618
+chanel 3 module 8 chip 0 monitor_sig 19: 409
+chanel 3 module 8 chip 0 monitor_sig 20: 342
+chanel 3 module 8 chip 0 monitor_sig 21: 381
+chanel 3 module 8 chip 0 monitor_sig 22: 972
+chanel 3 module 8 chip 0 monitor_sig 23: 753
+chanel 3 module 8 chip 0 monitor_sig 24: 437
+chanel 3 module 8 chip 0 monitor_sig 25: 357
+chanel 3 module 8 chip 0 monitor_sig 26: 78
+chanel 3 module 8 chip 0 monitor_sig 27: 312
+chanel 3 module 8 chip 0 monitor_sig 28: 0
+chanel 3 module 8 chip 0 monitor_sig 29: 839
+chanel 3 module 8 chip 0 monitor_sig 30: 840
+chanel 3 module 8 chip 0 monitor_sig 31: 971
+Wrong module number!
+Wrong module number!
+chanel 3 module 10 chip 0 monitor_sig 0: 0
+chanel 3 module 10 chip 0 monitor_sig 1: 0
+chanel 3 module 10 chip 0 monitor_sig 2: 0
+chanel 3 module 10 chip 0 monitor_sig 3: 0
+chanel 3 module 10 chip 0 monitor_sig 4: 0
+chanel 3 module 10 chip 0 monitor_sig 5: 0
+chanel 3 module 10 chip 0 monitor_sig 6: 0
+chanel 3 module 10 chip 0 monitor_sig 7: 0
+chanel 3 module 10 chip 0 monitor_sig 8: 0
+chanel 3 module 10 chip 0 monitor_sig 9: 0
+chanel 3 module 10 chip 0 monitor_sig 10: 0
+chanel 3 module 10 chip 0 monitor_sig 11: 0
+chanel 3 module 10 chip 0 monitor_sig 12: 0
+chanel 3 module 10 chip 0 monitor_sig 13: 0
+chanel 3 module 10 chip 0 monitor_sig 14: 0
+chanel 3 module 10 chip 0 monitor_sig 15: 0
+chanel 3 module 10 chip 0 monitor_sig 16: 0
+chanel 3 module 10 chip 0 monitor_sig 17: 0
+chanel 3 module 10 chip 0 monitor_sig 18: 0
+chanel 3 module 10 chip 0 monitor_sig 19: 0
+chanel 3 module 10 chip 0 monitor_sig 20: 0
+chanel 3 module 10 chip 0 monitor_sig 21: 0
+chanel 3 module 10 chip 0 monitor_sig 22: 0
+chanel 3 module 10 chip 0 monitor_sig 23: 0
+chanel 3 module 10 chip 0 monitor_sig 24: 0
+chanel 3 module 10 chip 0 monitor_sig 25: 0
+chanel 3 module 10 chip 0 monitor_sig 26: 0
+chanel 3 module 10 chip 0 monitor_sig 27: 0
+chanel 3 module 10 chip 0 monitor_sig 28: 0
+chanel 3 module 10 chip 0 monitor_sig 29: 0
+chanel 3 module 10 chip 0 monitor_sig 30: 0
+chanel 3 module 10 chip 0 monitor_sig 31: 0
+chanel 3 module 10 chip 1 monitor_sig 0: 466
+chanel 3 module 10 chip 1 monitor_sig 1: 851
+chanel 3 module 10 chip 1 monitor_sig 2: 389
+chanel 3 module 10 chip 1 monitor_sig 3: 550
+chanel 3 module 10 chip 1 monitor_sig 4: 1023
+chanel 3 module 10 chip 1 monitor_sig 5: 401
+chanel 3 module 10 chip 1 monitor_sig 6: 903
+chanel 3 module 10 chip 1 monitor_sig 7: 0
+chanel 3 module 10 chip 1 monitor_sig 8: 1023
+chanel 3 module 10 chip 1 monitor_sig 9: 910
+chanel 3 module 10 chip 1 monitor_sig 10: 805
+chanel 3 module 10 chip 1 monitor_sig 11: 191
+chanel 3 module 10 chip 1 monitor_sig 12: 319
+chanel 3 module 10 chip 1 monitor_sig 13: 852
+chanel 3 module 10 chip 1 monitor_sig 14: 225
+chanel 3 module 10 chip 1 monitor_sig 15: 349
+chanel 3 module 10 chip 1 monitor_sig 16: 0
+chanel 3 module 10 chip 1 monitor_sig 17: 606
+chanel 3 module 10 chip 1 monitor_sig 18: 595
+chanel 3 module 10 chip 1 monitor_sig 19: 406
+chanel 3 module 10 chip 1 monitor_sig 20: 340
+chanel 3 module 10 chip 1 monitor_sig 21: 379
+chanel 3 module 10 chip 1 monitor_sig 22: 963
+chanel 3 module 10 chip 1 monitor_sig 23: 675
+chanel 3 module 10 chip 1 monitor_sig 24: 430
+chanel 3 module 10 chip 1 monitor_sig 25: 354
+chanel 3 module 10 chip 1 monitor_sig 26: 72
+chanel 3 module 10 chip 1 monitor_sig 27: 189
+chanel 3 module 10 chip 1 monitor_sig 28: 0
+chanel 3 module 10 chip 1 monitor_sig 29: 810
+chanel 3 module 10 chip 1 monitor_sig 30: 810
+chanel 3 module 10 chip 1 monitor_sig 31: 965
+Wrong module number!
+Wrong module number!
+chanel 3 module 12 chip 0 monitor_sig 0: 670
+chanel 3 module 12 chip 0 monitor_sig 1: 669
+chanel 3 module 12 chip 0 monitor_sig 2: 669
+chanel 3 module 12 chip 0 monitor_sig 3: 669
+chanel 3 module 12 chip 0 monitor_sig 4: 669
+chanel 3 module 12 chip 0 monitor_sig 5: 668
+chanel 3 module 12 chip 0 monitor_sig 6: 669
+chanel 3 module 12 chip 0 monitor_sig 7: 669
+chanel 3 module 12 chip 0 monitor_sig 8: 670
+chanel 3 module 12 chip 0 monitor_sig 9: 670
+chanel 3 module 12 chip 0 monitor_sig 10: 668
+chanel 3 module 12 chip 0 monitor_sig 11: 669
+chanel 3 module 12 chip 0 monitor_sig 12: 668
+chanel 3 module 12 chip 0 monitor_sig 13: 670
+chanel 3 module 12 chip 0 monitor_sig 14: 670
+chanel 3 module 12 chip 0 monitor_sig 15: 669
+chanel 3 module 12 chip 0 monitor_sig 16: 669
+chanel 3 module 12 chip 0 monitor_sig 17: 669
+chanel 3 module 12 chip 0 monitor_sig 18: 669
+chanel 3 module 12 chip 0 monitor_sig 19: 669
+chanel 3 module 12 chip 0 monitor_sig 20: 670
+chanel 3 module 12 chip 0 monitor_sig 21: 669
+chanel 3 module 12 chip 0 monitor_sig 22: 669
+chanel 3 module 12 chip 0 monitor_sig 23: 670
+chanel 3 module 12 chip 0 monitor_sig 24: 670
+chanel 3 module 12 chip 0 monitor_sig 25: 669
+chanel 3 module 12 chip 0 monitor_sig 26: 670
+chanel 3 module 12 chip 0 monitor_sig 27: 669
+chanel 3 module 12 chip 0 monitor_sig 28: 670
+chanel 3 module 12 chip 0 monitor_sig 29: 669
+chanel 3 module 12 chip 0 monitor_sig 30: 669
+chanel 3 module 12 chip 0 monitor_sig 31: 669
+chanel 3 module 12 chip 1 monitor_sig 0: 1023
+chanel 3 module 12 chip 1 monitor_sig 1: 1023
+chanel 3 module 12 chip 1 monitor_sig 2: 1023
+chanel 3 module 12 chip 1 monitor_sig 3: 1023
+chanel 3 module 12 chip 1 monitor_sig 4: 1023
+chanel 3 module 12 chip 1 monitor_sig 5: 1023
+chanel 3 module 12 chip 1 monitor_sig 6: 1023
+chanel 3 module 12 chip 1 monitor_sig 7: 1023
+chanel 3 module 12 chip 1 monitor_sig 8: 1023
+chanel 3 module 12 chip 1 monitor_sig 9: 1023
+chanel 3 module 12 chip 1 monitor_sig 10: 1023
+chanel 3 module 12 chip 1 monitor_sig 11: 1023
+chanel 3 module 12 chip 1 monitor_sig 12: 1023
+chanel 3 module 12 chip 1 monitor_sig 13: 1023
+chanel 3 module 12 chip 1 monitor_sig 14: 1023
+chanel 3 module 12 chip 1 monitor_sig 15: 1023
+chanel 3 module 12 chip 1 monitor_sig 16: 1023
+chanel 3 module 12 chip 1 monitor_sig 17: 1023
+chanel 3 module 12 chip 1 monitor_sig 18: 1023
+chanel 3 module 12 chip 1 monitor_sig 19: 1023
+chanel 3 module 12 chip 1 monitor_sig 20: 1023
+chanel 3 module 12 chip 1 monitor_sig 21: 1023
+chanel 3 module 12 chip 1 monitor_sig 22: 1023
+chanel 3 module 12 chip 1 monitor_sig 23: 1023
+chanel 3 module 12 chip 1 monitor_sig 24: 1023
+chanel 3 module 12 chip 1 monitor_sig 25: 1023
+chanel 3 module 12 chip 1 monitor_sig 26: 1023
+chanel 3 module 12 chip 1 monitor_sig 27: 1023
+chanel 3 module 12 chip 1 monitor_sig 28: 1023
+chanel 3 module 12 chip 1 monitor_sig 29: 1023
+chanel 3 module 12 chip 1 monitor_sig 30: 1023
+chanel 3 module 12 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 4.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 324
+Timing ADC input 2: 511
+Timing ADC input 3: 590
+Timing ADC input 4: 711
+Timing ADC input 5: 933
+Timing ADC input 6: 547
+Timing ADC input 7: 613
+Timing ADC input 8: 622
+Timing ADC input 9: 34
+Timing ADC input 10: 34
+Timing ADC input 11: 36
+Timing ADC input 12: 34
+Timing ADC input 13: 33
+Timing ADC input 14: 500
+Timing ADC input 15: 515
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 4 module 0 mux channel 0: 50
+channel 4 module 0 mux channel 1: 948
+channel 4 module 0 mux channel 2: 1023
+channel 4 module 0 mux channel 5: 770
+channel 4 module 2 mux channel 6: 51
+channel 4 module 2 mux channel 7: 949
+channel 4 module 2 mux channel 8: 1023
+channel 4 module 2 mux channel 11: 769
+channel 4 module 4 mux channel 12: 53
+channel 4 module 4 mux channel 13: 1023
+channel 4 module 4 mux channel 14: 985
+channel 4 module 4 mux channel 17: 604
+channel 4 module 6 mux channel 18: 53
+channel 4 module 6 mux channel 19: 1023
+channel 4 module 6 mux channel 20: 985
+channel 4 module 6 mux channel 23: 769
+channel 4 module 8 mux channel 24: 53
+channel 4 module 8 mux channel 25: 1023
+channel 4 module 8 mux channel 26: 1023
+channel 4 module 8 mux channel 29: 791
+channel 4 module 9 mux channel 30: 54
+channel 4 module 9 mux channel 31: 1023
+channel 4 module 9 mux channel 32: 1023
+channel 4 module 9 mux channel 35: 791
+channel 4 module 10 mux channel 36: 52
+channel 4 module 10 mux channel 37: 1023
+channel 4 module 10 mux channel 38: 1023
+channel 4 module 10 mux channel 41: 802
+channel 4 module 11 mux channel 42: 52
+channel 4 module 11 mux channel 43: 1023
+channel 4 module 11 mux channel 44: 1023
+channel 4 module 11 mux channel 47: 802
+channel 4 module 12 mux channel 48: 50
+channel 4 module 12 mux channel 49: 900
+channel 4 module 12 mux channel 50: 969
+channel 4 module 12 mux channel 53: 604
+channel 4 module 13 mux channel 54: 49
+channel 4 module 13 mux channel 55: 900
+channel 4 module 13 mux channel 56: 970
+channel 4 module 13 mux channel 59: 802
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 719
+Read TEMP from PEB: 617
+read out monitor signals of front-end modules
+chanel 4 module 0 chip 0 monitor_sig 0: 469
+chanel 4 module 0 chip 0 monitor_sig 1: 826
+chanel 4 module 0 chip 0 monitor_sig 2: 393
+chanel 4 module 0 chip 0 monitor_sig 3: 546
+chanel 4 module 0 chip 0 monitor_sig 4: 1023
+chanel 4 module 0 chip 0 monitor_sig 5: 412
+chanel 4 module 0 chip 0 monitor_sig 6: 874
+chanel 4 module 0 chip 0 monitor_sig 7: 0
+chanel 4 module 0 chip 0 monitor_sig 8: 1023
+chanel 4 module 0 chip 0 monitor_sig 9: 884
+chanel 4 module 0 chip 0 monitor_sig 10: 778
+chanel 4 module 0 chip 0 monitor_sig 11: 208
+chanel 4 module 0 chip 0 monitor_sig 12: 333
+chanel 4 module 0 chip 0 monitor_sig 13: 835
+chanel 4 module 0 chip 0 monitor_sig 14: 235
+chanel 4 module 0 chip 0 monitor_sig 15: 357
+chanel 4 module 0 chip 0 monitor_sig 16: 0
+chanel 4 module 0 chip 0 monitor_sig 17: 562
+chanel 4 module 0 chip 0 monitor_sig 18: 573
+chanel 4 module 0 chip 0 monitor_sig 19: 395
+chanel 4 module 0 chip 0 monitor_sig 20: 353
+chanel 4 module 0 chip 0 monitor_sig 21: 389
+chanel 4 module 0 chip 0 monitor_sig 22: 948
+chanel 4 module 0 chip 0 monitor_sig 23: 730
+chanel 4 module 0 chip 0 monitor_sig 24: 441
+chanel 4 module 0 chip 0 monitor_sig 25: 367
+chanel 4 module 0 chip 0 monitor_sig 26: 92
+chanel 4 module 0 chip 0 monitor_sig 27: 398
+chanel 4 module 0 chip 0 monitor_sig 28: 14
+chanel 4 module 0 chip 0 monitor_sig 29: 1023
+chanel 4 module 0 chip 0 monitor_sig 30: 1023
+chanel 4 module 0 chip 0 monitor_sig 31: 1023
+chanel 4 module 0 chip 1 monitor_sig 0: 443
+chanel 4 module 0 chip 1 monitor_sig 1: 818
+chanel 4 module 0 chip 1 monitor_sig 2: 362
+chanel 4 module 0 chip 1 monitor_sig 3: 539
+chanel 4 module 0 chip 1 monitor_sig 4: 1023
+chanel 4 module 0 chip 1 monitor_sig 5: 420
+chanel 4 module 0 chip 1 monitor_sig 6: 866
+chanel 4 module 0 chip 1 monitor_sig 7: 0
+chanel 4 module 0 chip 1 monitor_sig 8: 1023
+chanel 4 module 0 chip 1 monitor_sig 9: 880
+chanel 4 module 0 chip 1 monitor_sig 10: 772
+chanel 4 module 0 chip 1 monitor_sig 11: 211
+chanel 4 module 0 chip 1 monitor_sig 12: 335
+chanel 4 module 0 chip 1 monitor_sig 13: 866
+chanel 4 module 0 chip 1 monitor_sig 14: 237
+chanel 4 module 0 chip 1 monitor_sig 15: 361
+chanel 4 module 0 chip 1 monitor_sig 16: 0
+chanel 4 module 0 chip 1 monitor_sig 17: 609
+chanel 4 module 0 chip 1 monitor_sig 18: 597
+chanel 4 module 0 chip 1 monitor_sig 19: 400
+chanel 4 module 0 chip 1 monitor_sig 20: 353
+chanel 4 module 0 chip 1 monitor_sig 21: 392
+chanel 4 module 0 chip 1 monitor_sig 22: 955
+chanel 4 module 0 chip 1 monitor_sig 23: 708
+chanel 4 module 0 chip 1 monitor_sig 24: 447
+chanel 4 module 0 chip 1 monitor_sig 25: 369
+chanel 4 module 0 chip 1 monitor_sig 26: 108
+chanel 4 module 0 chip 1 monitor_sig 27: 313
+chanel 4 module 0 chip 1 monitor_sig 28: 0
+chanel 4 module 0 chip 1 monitor_sig 29: 1023
+chanel 4 module 0 chip 1 monitor_sig 30: 1023
+chanel 4 module 0 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 4 module 4 chip 0 monitor_sig 0: 1023
+chanel 4 module 4 chip 0 monitor_sig 1: 1023
+chanel 4 module 4 chip 0 monitor_sig 2: 1023
+chanel 4 module 4 chip 0 monitor_sig 3: 1023
+chanel 4 module 4 chip 0 monitor_sig 4: 1023
+chanel 4 module 4 chip 0 monitor_sig 5: 1023
+chanel 4 module 4 chip 0 monitor_sig 6: 1023
+chanel 4 module 4 chip 0 monitor_sig 7: 1023
+chanel 4 module 4 chip 0 monitor_sig 8: 1023
+chanel 4 module 4 chip 0 monitor_sig 9: 1023
+chanel 4 module 4 chip 0 monitor_sig 10: 1023
+chanel 4 module 4 chip 0 monitor_sig 11: 1023
+chanel 4 module 4 chip 0 monitor_sig 12: 1023
+chanel 4 module 4 chip 0 monitor_sig 13: 1023
+chanel 4 module 4 chip 0 monitor_sig 14: 1023
+chanel 4 module 4 chip 0 monitor_sig 15: 1023
+chanel 4 module 4 chip 0 monitor_sig 16: 1023
+chanel 4 module 4 chip 0 monitor_sig 17: 1023
+chanel 4 module 4 chip 0 monitor_sig 18: 1023
+chanel 4 module 4 chip 0 monitor_sig 19: 1023
+chanel 4 module 4 chip 0 monitor_sig 20: 1023
+chanel 4 module 4 chip 0 monitor_sig 21: 1023
+chanel 4 module 4 chip 0 monitor_sig 22: 1023
+chanel 4 module 4 chip 0 monitor_sig 23: 1023
+chanel 4 module 4 chip 0 monitor_sig 24: 1023
+chanel 4 module 4 chip 0 monitor_sig 25: 1023
+chanel 4 module 4 chip 0 monitor_sig 26: 1023
+chanel 4 module 4 chip 0 monitor_sig 27: 1023
+chanel 4 module 4 chip 0 monitor_sig 28: 1023
+chanel 4 module 4 chip 0 monitor_sig 29: 1023
+chanel 4 module 4 chip 0 monitor_sig 30: 1023
+chanel 4 module 4 chip 0 monitor_sig 31: 1023
+chanel 4 module 4 chip 1 monitor_sig 0: 1023
+chanel 4 module 4 chip 1 monitor_sig 1: 1023
+chanel 4 module 4 chip 1 monitor_sig 2: 1023
+chanel 4 module 4 chip 1 monitor_sig 3: 1023
+chanel 4 module 4 chip 1 monitor_sig 4: 1023
+chanel 4 module 4 chip 1 monitor_sig 5: 1023
+chanel 4 module 4 chip 1 monitor_sig 6: 869
+chanel 4 module 4 chip 1 monitor_sig 7: 0
+chanel 4 module 4 chip 1 monitor_sig 8: 1023
+chanel 4 module 4 chip 1 monitor_sig 9: 878
+chanel 4 module 4 chip 1 monitor_sig 10: 773
+chanel 4 module 4 chip 1 monitor_sig 11: 208
+chanel 4 module 4 chip 1 monitor_sig 12: 334
+chanel 4 module 4 chip 1 monitor_sig 13: 865
+chanel 4 module 4 chip 1 monitor_sig 14: 233
+chanel 4 module 4 chip 1 monitor_sig 15: 355
+chanel 4 module 4 chip 1 monitor_sig 16: 0
+chanel 4 module 4 chip 1 monitor_sig 17: 542
+chanel 4 module 4 chip 1 monitor_sig 18: 564
+chanel 4 module 4 chip 1 monitor_sig 19: 387
+chanel 4 module 4 chip 1 monitor_sig 20: 353
+chanel 4 module 4 chip 1 monitor_sig 21: 387
+chanel 4 module 4 chip 1 monitor_sig 22: 943
+chanel 4 module 4 chip 1 monitor_sig 23: 584
+chanel 4 module 4 chip 1 monitor_sig 24: 439
+chanel 4 module 4 chip 1 monitor_sig 25: 367
+chanel 4 module 4 chip 1 monitor_sig 26: 110
+chanel 4 module 4 chip 1 monitor_sig 27: 203
+chanel 4 module 4 chip 1 monitor_sig 28: 17
+chanel 4 module 4 chip 1 monitor_sig 29: 18
+chanel 4 module 4 chip 1 monitor_sig 30: 0
+chanel 4 module 4 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 4 module 8 chip 0 monitor_sig 0: 0
+chanel 4 module 8 chip 0 monitor_sig 1: 0
+chanel 4 module 8 chip 0 monitor_sig 2: 0
+chanel 4 module 8 chip 0 monitor_sig 3: 0
+chanel 4 module 8 chip 0 monitor_sig 4: 0
+chanel 4 module 8 chip 0 monitor_sig 5: 0
+chanel 4 module 8 chip 0 monitor_sig 6: 0
+chanel 4 module 8 chip 0 monitor_sig 7: 0
+chanel 4 module 8 chip 0 monitor_sig 8: 0
+chanel 4 module 8 chip 0 monitor_sig 9: 0
+chanel 4 module 8 chip 0 monitor_sig 10: 0
+chanel 4 module 8 chip 0 monitor_sig 11: 0
+chanel 4 module 8 chip 0 monitor_sig 12: 0
+chanel 4 module 8 chip 0 monitor_sig 13: 0
+chanel 4 module 8 chip 0 monitor_sig 14: 0
+chanel 4 module 8 chip 0 monitor_sig 15: 0
+chanel 4 module 8 chip 0 monitor_sig 16: 0
+chanel 4 module 8 chip 0 monitor_sig 17: 0
+chanel 4 module 8 chip 0 monitor_sig 18: 0
+chanel 4 module 8 chip 0 monitor_sig 19: 0
+chanel 4 module 8 chip 0 monitor_sig 20: 0
+chanel 4 module 8 chip 0 monitor_sig 21: 0
+chanel 4 module 8 chip 0 monitor_sig 22: 0
+chanel 4 module 8 chip 0 monitor_sig 23: 0
+chanel 4 module 8 chip 0 monitor_sig 24: 0
+chanel 4 module 8 chip 0 monitor_sig 25: 0
+chanel 4 module 8 chip 0 monitor_sig 26: 0
+chanel 4 module 8 chip 0 monitor_sig 27: 0
+chanel 4 module 8 chip 0 monitor_sig 28: 0
+chanel 4 module 8 chip 0 monitor_sig 29: 0
+chanel 4 module 8 chip 0 monitor_sig 30: 0
+chanel 4 module 8 chip 0 monitor_sig 31: 0
+chanel 4 module 8 chip 1 monitor_sig 0: 397
+chanel 4 module 8 chip 1 monitor_sig 1: 782
+chanel 4 module 8 chip 1 monitor_sig 2: 321
+chanel 4 module 8 chip 1 monitor_sig 3: 506
+chanel 4 module 8 chip 1 monitor_sig 4: 1023
+chanel 4 module 8 chip 1 monitor_sig 5: 409
+chanel 4 module 8 chip 1 monitor_sig 6: 835
+chanel 4 module 8 chip 1 monitor_sig 7: 0
+chanel 4 module 8 chip 1 monitor_sig 8: 1023
+chanel 4 module 8 chip 1 monitor_sig 9: 847
+chanel 4 module 8 chip 1 monitor_sig 10: 744
+chanel 4 module 8 chip 1 monitor_sig 11: 200
+chanel 4 module 8 chip 1 monitor_sig 12: 329
+chanel 4 module 8 chip 1 monitor_sig 13: 874
+chanel 4 module 8 chip 1 monitor_sig 14: 234
+chanel 4 module 8 chip 1 monitor_sig 15: 359
+chanel 4 module 8 chip 1 monitor_sig 16: 0
+chanel 4 module 8 chip 1 monitor_sig 17: 609
+chanel 4 module 8 chip 1 monitor_sig 18: 599
+chanel 4 module 8 chip 1 monitor_sig 19: 412
+chanel 4 module 8 chip 1 monitor_sig 20: 349
+chanel 4 module 8 chip 1 monitor_sig 21: 388
+chanel 4 module 8 chip 1 monitor_sig 22: 920
+chanel 4 module 8 chip 1 monitor_sig 23: 582
+chanel 4 module 8 chip 1 monitor_sig 24: 442
+chanel 4 module 8 chip 1 monitor_sig 25: 365
+chanel 4 module 8 chip 1 monitor_sig 26: 97
+chanel 4 module 8 chip 1 monitor_sig 27: 297
+chanel 4 module 8 chip 1 monitor_sig 28: 34
+chanel 4 module 8 chip 1 monitor_sig 29: 1023
+chanel 4 module 8 chip 1 monitor_sig 30: 1023
+chanel 4 module 8 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 4 module 10 chip 0 monitor_sig 0: 1023
+chanel 4 module 10 chip 0 monitor_sig 1: 1023
+chanel 4 module 10 chip 0 monitor_sig 2: 1023
+chanel 4 module 10 chip 0 monitor_sig 3: 1023
+chanel 4 module 10 chip 0 monitor_sig 4: 1023
+chanel 4 module 10 chip 0 monitor_sig 5: 1023
+chanel 4 module 10 chip 0 monitor_sig 6: 1023
+chanel 4 module 10 chip 0 monitor_sig 7: 1023
+chanel 4 module 10 chip 0 monitor_sig 8: 1023
+chanel 4 module 10 chip 0 monitor_sig 9: 1023
+chanel 4 module 10 chip 0 monitor_sig 10: 1023
+chanel 4 module 10 chip 0 monitor_sig 11: 1023
+chanel 4 module 10 chip 0 monitor_sig 12: 1023
+chanel 4 module 10 chip 0 monitor_sig 13: 1023
+chanel 4 module 10 chip 0 monitor_sig 14: 1023
+chanel 4 module 10 chip 0 monitor_sig 15: 1023
+chanel 4 module 10 chip 0 monitor_sig 16: 1023
+chanel 4 module 10 chip 0 monitor_sig 17: 1023
+chanel 4 module 10 chip 0 monitor_sig 18: 1023
+chanel 4 module 10 chip 0 monitor_sig 19: 1023
+chanel 4 module 10 chip 0 monitor_sig 20: 1023
+chanel 4 module 10 chip 0 monitor_sig 21: 1023
+chanel 4 module 10 chip 0 monitor_sig 22: 1023
+chanel 4 module 10 chip 0 monitor_sig 23: 1023
+chanel 4 module 10 chip 0 monitor_sig 24: 1023
+chanel 4 module 10 chip 0 monitor_sig 25: 1023
+chanel 4 module 10 chip 0 monitor_sig 26: 1023
+chanel 4 module 10 chip 0 monitor_sig 27: 1023
+chanel 4 module 10 chip 0 monitor_sig 28: 1023
+chanel 4 module 10 chip 0 monitor_sig 29: 1023
+chanel 4 module 10 chip 0 monitor_sig 30: 1023
+chanel 4 module 10 chip 0 monitor_sig 31: 1023
+chanel 4 module 10 chip 1 monitor_sig 0: 1023
+chanel 4 module 10 chip 1 monitor_sig 1: 1023
+chanel 4 module 10 chip 1 monitor_sig 2: 1023
+chanel 4 module 10 chip 1 monitor_sig 3: 1023
+chanel 4 module 10 chip 1 monitor_sig 4: 1023
+chanel 4 module 10 chip 1 monitor_sig 5: 1023
+chanel 4 module 10 chip 1 monitor_sig 6: 1023
+chanel 4 module 10 chip 1 monitor_sig 7: 1023
+chanel 4 module 10 chip 1 monitor_sig 8: 1023
+chanel 4 module 10 chip 1 monitor_sig 9: 1023
+chanel 4 module 10 chip 1 monitor_sig 10: 1023
+chanel 4 module 10 chip 1 monitor_sig 11: 1023
+chanel 4 module 10 chip 1 monitor_sig 12: 1023
+chanel 4 module 10 chip 1 monitor_sig 13: 1023
+chanel 4 module 10 chip 1 monitor_sig 14: 1023
+chanel 4 module 10 chip 1 monitor_sig 15: 1023
+chanel 4 module 10 chip 1 monitor_sig 16: 1023
+chanel 4 module 10 chip 1 monitor_sig 17: 1023
+chanel 4 module 10 chip 1 monitor_sig 18: 1023
+chanel 4 module 10 chip 1 monitor_sig 19: 1023
+chanel 4 module 10 chip 1 monitor_sig 20: 1023
+chanel 4 module 10 chip 1 monitor_sig 21: 1023
+chanel 4 module 10 chip 1 monitor_sig 22: 1023
+chanel 4 module 10 chip 1 monitor_sig 23: 1023
+chanel 4 module 10 chip 1 monitor_sig 24: 1023
+chanel 4 module 10 chip 1 monitor_sig 25: 1023
+chanel 4 module 10 chip 1 monitor_sig 26: 1023
+chanel 4 module 10 chip 1 monitor_sig 27: 1023
+chanel 4 module 10 chip 1 monitor_sig 28: 1023
+chanel 4 module 10 chip 1 monitor_sig 29: 1023
+chanel 4 module 10 chip 1 monitor_sig 30: 1023
+chanel 4 module 10 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 4 module 12 chip 0 monitor_sig 0: 1023
+chanel 4 module 12 chip 0 monitor_sig 1: 1023
+chanel 4 module 12 chip 0 monitor_sig 2: 1023
+chanel 4 module 12 chip 0 monitor_sig 3: 1023
+chanel 4 module 12 chip 0 monitor_sig 4: 1023
+chanel 4 module 12 chip 0 monitor_sig 5: 1023
+chanel 4 module 12 chip 0 monitor_sig 6: 1023
+chanel 4 module 12 chip 0 monitor_sig 7: 1023
+chanel 4 module 12 chip 0 monitor_sig 8: 1023
+chanel 4 module 12 chip 0 monitor_sig 9: 1023
+chanel 4 module 12 chip 0 monitor_sig 10: 1023
+chanel 4 module 12 chip 0 monitor_sig 11: 1023
+chanel 4 module 12 chip 0 monitor_sig 12: 1023
+chanel 4 module 12 chip 0 monitor_sig 13: 1023
+chanel 4 module 12 chip 0 monitor_sig 14: 1023
+chanel 4 module 12 chip 0 monitor_sig 15: 1023
+chanel 4 module 12 chip 0 monitor_sig 16: 1023
+chanel 4 module 12 chip 0 monitor_sig 17: 1023
+chanel 4 module 12 chip 0 monitor_sig 18: 1023
+chanel 4 module 12 chip 0 monitor_sig 19: 1023
+chanel 4 module 12 chip 0 monitor_sig 20: 1023
+chanel 4 module 12 chip 0 monitor_sig 21: 1023
+chanel 4 module 12 chip 0 monitor_sig 22: 1023
+chanel 4 module 12 chip 0 monitor_sig 23: 1023
+chanel 4 module 12 chip 0 monitor_sig 24: 1023
+chanel 4 module 12 chip 0 monitor_sig 25: 1023
+chanel 4 module 12 chip 0 monitor_sig 26: 1023
+chanel 4 module 12 chip 0 monitor_sig 27: 1023
+chanel 4 module 12 chip 0 monitor_sig 28: 1023
+chanel 4 module 12 chip 0 monitor_sig 29: 1023
+chanel 4 module 12 chip 0 monitor_sig 30: 1023
+chanel 4 module 12 chip 0 monitor_sig 31: 1023
+chanel 4 module 12 chip 1 monitor_sig 0: 1023
+chanel 4 module 12 chip 1 monitor_sig 1: 1023
+chanel 4 module 12 chip 1 monitor_sig 2: 1023
+chanel 4 module 12 chip 1 monitor_sig 3: 1023
+chanel 4 module 12 chip 1 monitor_sig 4: 1023
+chanel 4 module 12 chip 1 monitor_sig 5: 1023
+chanel 4 module 12 chip 1 monitor_sig 6: 1023
+chanel 4 module 12 chip 1 monitor_sig 7: 1023
+chanel 4 module 12 chip 1 monitor_sig 8: 1023
+chanel 4 module 12 chip 1 monitor_sig 9: 1023
+chanel 4 module 12 chip 1 monitor_sig 10: 1023
+chanel 4 module 12 chip 1 monitor_sig 11: 1023
+chanel 4 module 12 chip 1 monitor_sig 12: 1023
+chanel 4 module 12 chip 1 monitor_sig 13: 1023
+chanel 4 module 12 chip 1 monitor_sig 14: 1023
+chanel 4 module 12 chip 1 monitor_sig 15: 1023
+chanel 4 module 12 chip 1 monitor_sig 16: 1023
+chanel 4 module 12 chip 1 monitor_sig 17: 1023
+chanel 4 module 12 chip 1 monitor_sig 18: 1023
+[SerialComm] deleting instance after 6912 transactions.
+chanel 4 module 12 chip 1 monitor_sig 19: 1023
+chanel 4 module 12 chip 1 monitor_sig 20: 1023
+chanel 4 module 12 chip 1 monitor_sig 21: 1023
+chanel 4 module 12 chip 1 monitor_sig 22: 1023
+chanel 4 module 12 chip 1 monitor_sig 23: 1023
+chanel 4 module 12 chip 1 monitor_sig 24: 1023
+chanel 4 module 12 chip 1 monitor_sig 25: 1023
+chanel 4 module 12 chip 1 monitor_sig 26: 1023
+chanel 4 module 12 chip 1 monitor_sig 27: 1023
+chanel 4 module 12 chip 1 monitor_sig 28: 1023
+chanel 4 module 12 chip 1 monitor_sig 29: 1023
+chanel 4 module 12 chip 1 monitor_sig 30: 1023
+chanel 4 module 12 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+[SerialComm] deleting instance after 2502 transactions.
+
+***FLX-device number is 0. GBT-link number is 5.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 293
+Timing ADC input 2: 483
+Timing ADC input 3: 578
+Timing ADC input 4: 710
+Timing ADC input 5: 951
+Timing ADC input 6: 622
+Timing ADC input 7: 615
+Timing ADC input 8: 615
+Timing ADC input 9: 27
+Timing ADC input 10: 27
+Timing ADC input 11: 29
+Timing ADC input 12: 28
+Timing ADC input 13: 27
+Timing ADC input 14: 481
+Timing ADC input 15: 508
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 5 module 0 mux channel 0: 74
+channel 5 module 0 mux channel 1: 106
+channel 5 module 0 mux channel 2: 998
+channel 5 module 0 mux channel 5: 743
+channel 5 module 2 mux channel 6: 75
+channel 5 module 2 mux channel 7: 106
+channel 5 module 2 mux channel 8: 998
+channel 5 module 2 mux channel 11: 743
+channel 5 module 4 mux channel 12: 49
+channel 5 module 4 mux channel 13: 1023
+channel 5 module 4 mux channel 14: 1023
+channel 5 module 4 mux channel 17: 757
+channel 5 module 6 mux channel 18: 50
+channel 5 module 6 mux channel 19: 1023
+channel 5 module 6 mux channel 20: 1023
+channel 5 module 6 mux channel 23: 758
+channel 5 module 8 mux channel 24: 53
+channel 5 module 8 mux channel 25: 1023
+channel 5 module 8 mux channel 26: 1023
+channel 5 module 8 mux channel 29: 766
+channel 5 module 9 mux channel 30: 53
+channel 5 module 9 mux channel 31: 1023
+channel 5 module 9 mux channel 32: 1023
+channel 5 module 9 mux channel 35: 766
+channel 5 module 10 mux channel 36: 598
+channel 5 module 10 mux channel 37: 598
+channel 5 module 10 mux channel 38: 598
+channel 5 module 10 mux channel 41: 1023
+channel 5 module 11 mux channel 42: 599
+channel 5 module 11 mux channel 43: 598
+channel 5 module 11 mux channel 44: 598
+channel 5 module 11 mux channel 47: 1023
+channel 5 module 12 mux channel 48: 599
+channel 5 module 12 mux channel 49: 597
+channel 5 module 12 mux channel 50: 599
+channel 5 module 12 mux channel 53: 1023
+channel 5 module 13 mux channel 54: 599
+channel 5 module 13 mux channel 55: 597
+channel 5 module 13 mux channel 56: 598
+channel 5 module 13 mux channel 59: 1023
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 713
+Read TEMP from PEB: 585
+read out monitor signals of front-end modules
+chanel 5 module 0 chip 0 monitor_sig 0: 45
+chanel 5 module 0 chip 0 monitor_sig 1: 221
+chanel 5 module 0 chip 0 monitor_sig 2: 19
+chanel 5 module 0 chip 0 monitor_sig 3: 52
+chanel 5 module 0 chip 0 monitor_sig 4: 849
+chanel 5 module 0 chip 0 monitor_sig 5: 419
+chanel 5 module 0 chip 0 monitor_sig 6: 819
+chanel 5 module 0 chip 0 monitor_sig 7: 4
+chanel 5 module 0 chip 0 monitor_sig 8: 647
+chanel 5 module 0 chip 0 monitor_sig 9: 832
+chanel 5 module 0 chip 0 monitor_sig 10: 731
+chanel 5 module 0 chip 0 monitor_sig 11: 253
+chanel 5 module 0 chip 0 monitor_sig 12: 383
+chanel 5 module 0 chip 0 monitor_sig 13: 640
+chanel 5 module 0 chip 0 monitor_sig 14: 251
+chanel 5 module 0 chip 0 monitor_sig 15: 377
+chanel 5 module 0 chip 0 monitor_sig 16: 1
+chanel 5 module 0 chip 0 monitor_sig 17: 657
+chanel 5 module 0 chip 0 monitor_sig 18: 609
+chanel 5 module 0 chip 0 monitor_sig 19: 417
+chanel 5 module 0 chip 0 monitor_sig 20: 401
+chanel 5 module 0 chip 0 monitor_sig 21: 444
+chanel 5 module 0 chip 0 monitor_sig 22: 350
+chanel 5 module 0 chip 0 monitor_sig 23: 458
+chanel 5 module 0 chip 0 monitor_sig 24: 496
+chanel 5 module 0 chip 0 monitor_sig 25: 414
+chanel 5 module 0 chip 0 monitor_sig 26: 114
+chanel 5 module 0 chip 0 monitor_sig 27: 91
+chanel 5 module 0 chip 0 monitor_sig 28: 85
+chanel 5 module 0 chip 0 monitor_sig 29: 1023
+chanel 5 module 0 chip 0 monitor_sig 30: 1023
+chanel 5 module 0 chip 0 monitor_sig 31: 1023
+chanel 5 module 0 chip 1 monitor_sig 0: 370
+chanel 5 module 0 chip 1 monitor_sig 1: 743
+chanel 5 module 0 chip 1 monitor_sig 2: 292
+chanel 5 module 0 chip 1 monitor_sig 3: 463
+chanel 5 module 0 chip 1 monitor_sig 4: 1023
+chanel 5 module 0 chip 1 monitor_sig 5: 421
+chanel 5 module 0 chip 1 monitor_sig 6: 795
+chanel 5 module 0 chip 1 monitor_sig 7: 0
+chanel 5 module 0 chip 1 monitor_sig 8: 1023
+chanel 5 module 0 chip 1 monitor_sig 9: 812
+chanel 5 module 0 chip 1 monitor_sig 10: 710
+chanel 5 module 0 chip 1 monitor_sig 11: 218
+chanel 5 module 0 chip 1 monitor_sig 12: 347
+chanel 5 module 0 chip 1 monitor_sig 13: 872
+chanel 5 module 0 chip 1 monitor_sig 14: 234
+chanel 5 module 0 chip 1 monitor_sig 15: 361
+chanel 5 module 0 chip 1 monitor_sig 16: 0
+chanel 5 module 0 chip 1 monitor_sig 17: 610
+chanel 5 module 0 chip 1 monitor_sig 18: 601
+chanel 5 module 0 chip 1 monitor_sig 19: 414
+chanel 5 module 0 chip 1 monitor_sig 20: 366
+chanel 5 module 0 chip 1 monitor_sig 21: 404
+chanel 5 module 0 chip 1 monitor_sig 22: 894
+chanel 5 module 0 chip 1 monitor_sig 23: 682
+chanel 5 module 0 chip 1 monitor_sig 24: 459
+chanel 5 module 0 chip 1 monitor_sig 25: 380
+chanel 5 module 0 chip 1 monitor_sig 26: 118
+chanel 5 module 0 chip 1 monitor_sig 27: 373
+chanel 5 module 0 chip 1 monitor_sig 28: 162
+chanel 5 module 0 chip 1 monitor_sig 29: 1023
+chanel 5 module 0 chip 1 monitor_sig 30: 1023
+chanel 5 module 0 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 5 module 4 chip 0 monitor_sig 0: 0
+chanel 5 module 4 chip 0 monitor_sig 1: 0
+chanel 5 module 4 chip 0 monitor_sig 2: 0
+chanel 5 module 4 chip 0 monitor_sig 3: 0
+chanel 5 module 4 chip 0 monitor_sig 4: 0
+chanel 5 module 4 chip 0 monitor_sig 5: 0
+chanel 5 module 4 chip 0 monitor_sig 6: 0
+chanel 5 module 4 chip 0 monitor_sig 7: 0
+chanel 5 module 4 chip 0 monitor_sig 8: 0
+chanel 5 module 4 chip 0 monitor_sig 9: 0
+chanel 5 module 4 chip 0 monitor_sig 10: 0
+chanel 5 module 4 chip 0 monitor_sig 11: 0
+chanel 5 module 4 chip 0 monitor_sig 12: 0
+chanel 5 module 4 chip 0 monitor_sig 13: 0
+chanel 5 module 4 chip 0 monitor_sig 14: 0
+chanel 5 module 4 chip 0 monitor_sig 15: 0
+chanel 5 module 4 chip 0 monitor_sig 16: 0
+chanel 5 module 4 chip 0 monitor_sig 17: 0
+chanel 5 module 4 chip 0 monitor_sig 18: 0
+chanel 5 module 4 chip 0 monitor_sig 19: 0
+chanel 5 module 4 chip 0 monitor_sig 20: 0
+chanel 5 module 4 chip 0 monitor_sig 21: 0
+chanel 5 module 4 chip 0 monitor_sig 22: 0
+chanel 5 module 4 chip 0 monitor_sig 23: 0
+chanel 5 module 4 chip 0 monitor_sig 24: 0
+chanel 5 module 4 chip 0 monitor_sig 25: 0
+chanel 5 module 4 chip 0 monitor_sig 26: 0
+chanel 5 module 4 chip 0 monitor_sig 27: 0
+chanel 5 module 4 chip 0 monitor_sig 28: 0
+chanel 5 module 4 chip 0 monitor_sig 29: 0
+chanel 5 module 4 chip 0 monitor_sig 30: 0
+chanel 5 module 4 chip 0 monitor_sig 31: 0
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 6.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 306
+Timing ADC input 2: 480
+Timing ADC input 3: 581
+Timing ADC input 4: 708
+Timing ADC input 5: 923
+Timing ADC input 6: 566
+Timing ADC input 7: 590
+Timing ADC input 8: 616
+Timing ADC input 9: 29
+Timing ADC input 10: 30
+Timing ADC input 11: 33
+Timing ADC input 12: 30
+Timing ADC input 13: 30
+Timing ADC input 14: 489
+Timing ADC input 15: 510
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 6 module 0 mux channel 0: 50
+channel 6 module 0 mux channel 1: 1023
+channel 6 module 0 mux channel 2: 1023
+channel 6 module 0 mux channel 5: 746
+channel 6 module 2 mux channel 6: 49
+channel 6 module 2 mux channel 7: 1023
+channel 6 module 2 mux channel 8: 1023
+channel 6 module 2 mux channel 11: 747
+channel 6 module 4 mux channel 12: 55
+channel 6 module 4 mux channel 13: 1023
+channel 6 module 4 mux channel 14: 1023
+channel 6 module 4 mux channel 17: 769
+channel 6 module 6 mux channel 18: 56
+channel 6 module 6 mux channel 19: 1023
+channel 6 module 6 mux channel 20: 1023
+channel 6 module 6 mux channel 23: 769
+channel 6 module 8 mux channel 24: 53
+channel 6 module 8 mux channel 25: 1023
+channel 6 module 8 mux channel 26: 1023
+channel 6 module 8 mux channel 29: 734
+channel 6 module 9 mux channel 30: 30
+channel 6 module 9 mux channel 31: 30
+channel 6 module 9 mux channel 32: 30
+channel 6 module 9 mux channel 35: 30
+channel 6 module 10 mux channel 36: 30
+channel 6 module 10 mux channel 37: 30
+channel 6 module 10 mux channel 38: 30
+channel 6 module 10 mux channel 41: 30
+channel 6 module 11 mux channel 42: 30
+channel 6 module 11 mux channel 43: 30
+channel 6 module 11 mux channel 44: 30
+channel 6 module 11 mux channel 47: 30
+channel 6 module 12 mux channel 48: 40
+channel 6 module 12 mux channel 49: 392
+channel 6 module 12 mux channel 50: 403
+channel 6 module 12 mux channel 53: 774
+channel 6 module 13 mux channel 54: 30
+channel 6 module 13 mux channel 55: 31
+channel 6 module 13 mux channel 56: 30
+channel 6 module 13 mux channel 59: 30
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 716
+Read TEMP from PEB: 582
+read out monitor signals of front-end modules
+chanel 6 module 0 chip 0 monitor_sig 0: 391
+chanel 6 module 0 chip 0 monitor_sig 1: 774
+chanel 6 module 0 chip 0 monitor_sig 2: 329
+chanel 6 module 0 chip 0 monitor_sig 3: 478
+chanel 6 module 0 chip 0 monitor_sig 4: 1023
+chanel 6 module 0 chip 0 monitor_sig 5: 406
+chanel 6 module 0 chip 0 monitor_sig 6: 825
+chanel 6 module 0 chip 0 monitor_sig 7: 0
+chanel 6 module 0 chip 0 monitor_sig 8: 1023
+chanel 6 module 0 chip 0 monitor_sig 9: 839
+chanel 6 module 0 chip 0 monitor_sig 10: 737
+chanel 6 module 0 chip 0 monitor_sig 11: 213
+chanel 6 module 0 chip 0 monitor_sig 12: 337
+chanel 6 module 0 chip 0 monitor_sig 13: 875
+chanel 6 module 0 chip 0 monitor_sig 14: 239
+chanel 6 module 0 chip 0 monitor_sig 15: 359
+chanel 6 module 0 chip 0 monitor_sig 16: 0
+chanel 6 module 0 chip 0 monitor_sig 17: 627
+chanel 6 module 0 chip 0 monitor_sig 18: 597
+chanel 6 module 0 chip 0 monitor_sig 19: 402
+chanel 6 module 0 chip 0 monitor_sig 20: 354
+chanel 6 module 0 chip 0 monitor_sig 21: 393
+chanel 6 module 0 chip 0 monitor_sig 22: 911
+chanel 6 module 0 chip 0 monitor_sig 23: 620
+chanel 6 module 0 chip 0 monitor_sig 24: 445
+chanel 6 module 0 chip 0 monitor_sig 25: 370
+chanel 6 module 0 chip 0 monitor_sig 26: 119
+chanel 6 module 0 chip 0 monitor_sig 27: 141
+chanel 6 module 0 chip 0 monitor_sig 28: 0
+chanel 6 module 0 chip 0 monitor_sig 29: 1023
+chanel 6 module 0 chip 0 monitor_sig 30: 1023
+chanel 6 module 0 chip 0 monitor_sig 31: 1023
+chanel 6 module 0 chip 1 monitor_sig 0: 393
+chanel 6 module 0 chip 1 monitor_sig 1: 769
+chanel 6 module 0 chip 1 monitor_sig 2: 313
+chanel 6 module 0 chip 1 monitor_sig 3: 484
+chanel 6 module 0 chip 1 monitor_sig 4: 1023
+chanel 6 module 0 chip 1 monitor_sig 5: 411
+chanel 6 module 0 chip 1 monitor_sig 6: 820
+chanel 6 module 0 chip 1 monitor_sig 7: 0
+chanel 6 module 0 chip 1 monitor_sig 8: 1023
+chanel 6 module 0 chip 1 monitor_sig 9: 831
+chanel 6 module 0 chip 1 monitor_sig 10: 727
+chanel 6 module 0 chip 1 monitor_sig 11: 205
+chanel 6 module 0 chip 1 monitor_sig 12: 332
+chanel 6 module 0 chip 1 monitor_sig 13: 870
+chanel 6 module 0 chip 1 monitor_sig 14: 226
+chanel 6 module 0 chip 1 monitor_sig 15: 350
+chanel 6 module 0 chip 1 monitor_sig 16: 0
+chanel 6 module 0 chip 1 monitor_sig 17: 614
+chanel 6 module 0 chip 1 monitor_sig 18: 583
+chanel 6 module 0 chip 1 monitor_sig 19: 392
+chanel 6 module 0 chip 1 monitor_sig 20: 351
+chanel 6 module 0 chip 1 monitor_sig 21: 390
+chanel 6 module 0 chip 1 monitor_sig 22: 910
+chanel 6 module 0 chip 1 monitor_sig 23: 634
+chanel 6 module 0 chip 1 monitor_sig 24: 443
+chanel 6 module 0 chip 1 monitor_sig 25: 367
+chanel 6 module 0 chip 1 monitor_sig 26: 122
+chanel 6 module 0 chip 1 monitor_sig 27: 106
+chanel 6 module 0 chip 1 monitor_sig 28: 0
+chanel 6 module 0 chip 1 monitor_sig 29: 1023
+chanel 6 module 0 chip 1 monitor_sig 30: 1023
+chanel 6 module 0 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 6 module 4 chip 0 monitor_sig 0: 1023
+chanel 6 module 4 chip 0 monitor_sig 1: 1023
+chanel 6 module 4 chip 0 monitor_sig 2: 1023
+chanel 6 module 4 chip 0 monitor_sig 3: 1023
+chanel 6 module 4 chip 0 monitor_sig 4: 1023
+chanel 6 module 4 chip 0 monitor_sig 5: 1023
+chanel 6 module 4 chip 0 monitor_sig 6: 1023
+chanel 6 module 4 chip 0 monitor_sig 7: 1023
+chanel 6 module 4 chip 0 monitor_sig 8: 1023
+chanel 6 module 4 chip 0 monitor_sig 9: 1023
+chanel 6 module 4 chip 0 monitor_sig 10: 1023
+chanel 6 module 4 chip 0 monitor_sig 11: 1023
+chanel 6 module 4 chip 0 monitor_sig 12: 1023
+chanel 6 module 4 chip 0 monitor_sig 13: 1023
+chanel 6 module 4 chip 0 monitor_sig 14: 1023
+chanel 6 module 4 chip 0 monitor_sig 15: 1023
+chanel 6 module 4 chip 0 monitor_sig 16: 1023
+chanel 6 module 4 chip 0 monitor_sig 17: 1023
+chanel 6 module 4 chip 0 monitor_sig 18: 1023
+chanel 6 module 4 chip 0 monitor_sig 19: 1023
+chanel 6 module 4 chip 0 monitor_sig 20: 1023
+chanel 6 module 4 chip 0 monitor_sig 21: 1023
+chanel 6 module 4 chip 0 monitor_sig 22: 1023
+chanel 6 module 4 chip 0 monitor_sig 23: 1023
+chanel 6 module 4 chip 0 monitor_sig 24: 1023
+chanel 6 module 4 chip 0 monitor_sig 25: 1023
+chanel 6 module 4 chip 0 monitor_sig 26: 1023
+chanel 6 module 4 chip 0 monitor_sig 27: 1023
+chanel 6 module 4 chip 0 monitor_sig 28: 1023
+chanel 6 module 4 chip 0 monitor_sig 29: 1023
+chanel 6 module 4 chip 0 monitor_sig 30: 1023
+chanel 6 module 4 chip 0 monitor_sig 31: 1023
+chanel 6 module 4 chip 1 monitor_sig 0: 1023
+chanel 6 module 4 chip 1 monitor_sig 1: 1023
+chanel 6 module 4 chip 1 monitor_sig 2: 1023
+chanel 6 module 4 chip 1 monitor_sig 3: 1023
+chanel 6 module 4 chip 1 monitor_sig 4: 1023
+chanel 6 module 4 chip 1 monitor_sig 5: 1023
+chanel 6 module 4 chip 1 monitor_sig 6: 1023
+chanel 6 module 4 chip 1 monitor_sig 7: 1023
+chanel 6 module 4 chip 1 monitor_sig 8: 1023
+chanel 6 module 4 chip 1 monitor_sig 9: 1023
+chanel 6 module 4 chip 1 monitor_sig 10: 1023
+chanel 6 module 4 chip 1 monitor_sig 11: 1023
+chanel 6 module 4 chip 1 monitor_sig 12: 1023
+chanel 6 module 4 chip 1 monitor_sig 13: 1023
+chanel 6 module 4 chip 1 monitor_sig 14: 1023
+chanel 6 module 4 chip 1 monitor_sig 15: 1023
+chanel 6 module 4 chip 1 monitor_sig 16: 1023
+chanel 6 module 4 chip 1 monitor_sig 17: 1023
+chanel 6 module 4 chip 1 monitor_sig 18: 1023
+chanel 6 module 4 chip 1 monitor_sig 19: 1023
+chanel 6 module 4 chip 1 monitor_sig 20: 1023
+chanel 6 module 4 chip 1 monitor_sig 21: 1023
+chanel 6 module 4 chip 1 monitor_sig 22: 1023
+chanel 6 module 4 chip 1 monitor_sig 23: 1023
+chanel 6 module 4 chip 1 monitor_sig 24: 1023
+chanel 6 module 4 chip 1 monitor_sig 25: 1023
+chanel 6 module 4 chip 1 monitor_sig 26: 1023
+chanel 6 module 4 chip 1 monitor_sig 27: 1023
+chanel 6 module 4 chip 1 monitor_sig 28: 1023
+chanel 6 module 4 chip 1 monitor_sig 29: 1023
+chanel 6 module 4 chip 1 monitor_sig 30: 1023
+chanel 6 module 4 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 6 module 8 chip 0 monitor_sig 0: 380
+[SerialComm] deleting instance after 5002 transactions.
+chanel 6 module 8 chip 0 monitor_sig 1: 765
+chanel 6 module 8 chip 0 monitor_sig 2: 306
+chanel 6 module 8 chip 0 monitor_sig 3: 484
+chanel 6 module 8 chip 0 monitor_sig 4: 1023
+chanel 6 module 8 chip 0 monitor_sig 5: 414
+chanel 6 module 8 chip 0 monitor_sig 6: 815
+chanel 6 module 8 chip 0 monitor_sig 7: 0
+chanel 6 module 8 chip 0 monitor_sig 8: 1023
+chanel 6 module 8 chip 0 monitor_sig 9: 831
+chanel 6 module 8 chip 0 monitor_sig 10: 727
+chanel 6 module 8 chip 0 monitor_sig 11: 209
+chanel 6 module 8 chip 0 monitor_sig 12: 334
+chanel 6 module 8 chip 0 monitor_sig 13: 884
+chanel 6 module 8 chip 0 monitor_sig 14: 219
+chanel 6 module 8 chip 0 monitor_sig 15: 344
+chanel 6 module 8 chip 0 monitor_sig 16: 0
+chanel 6 module 8 chip 0 monitor_sig 17: 710
+chanel 6 module 8 chip 0 monitor_sig 18: 620
+chanel 6 module 8 chip 0 monitor_sig 19: 401
+chanel 6 module 8 chip 0 monitor_sig 20: 353
+chanel 6 module 8 chip 0 monitor_sig 21: 393
+chanel 6 module 8 chip 0 monitor_sig 22: 910
+chanel 6 module 8 chip 0 monitor_sig 23: 666
+chanel 6 module 8 chip 0 monitor_sig 24: 446
+chanel 6 module 8 chip 0 monitor_sig 25: 369
+chanel 6 module 8 chip 0 monitor_sig 26: 117
+chanel 6 module 8 chip 0 monitor_sig 27: 217
+chanel 6 module 8 chip 0 monitor_sig 28: 1
+chanel 6 module 8 chip 0 monitor_sig 29: 0
+chanel 6 module 8 chip 0 monitor_sig 30: 1023
+chanel 6 module 8 chip 0 monitor_sig 31: 1023
+chanel 6 module 8 chip 1 monitor_sig 0: 379
+chanel 6 module 8 chip 1 monitor_sig 1: 762
+chanel 6 module 8 chip 1 monitor_sig 2: 295
+chanel 6 module 8 chip 1 monitor_sig 3: 454
+chanel 6 module 8 chip 1 monitor_sig 4: 1023
+chanel 6 module 8 chip 1 monitor_sig 5: 410
+chanel 6 module 8 chip 1 monitor_sig 6: 816
+chanel 6 module 8 chip 1 monitor_sig 7: 0
+chanel 6 module 8 chip 1 monitor_sig 8: 1023
+chanel 6 module 8 chip 1 monitor_sig 9: 830
+chanel 6 module 8 chip 1 monitor_sig 10: 727
+chanel 6 module 8 chip 1 monitor_sig 11: 204
+chanel 6 module 8 chip 1 monitor_sig 12: 334
+chanel 6 module 8 chip 1 monitor_sig 13: 882
+chanel 6 module 8 chip 1 monitor_sig 14: 255
+chanel 6 module 8 chip 1 monitor_sig 15: 383
+chanel 6 module 8 chip 1 monitor_sig 16: 0
+chanel 6 module 8 chip 1 monitor_sig 17: 669
+chanel 6 module 8 chip 1 monitor_sig 18: 615
+chanel 6 module 8 chip 1 monitor_sig 19: 405
+chanel 6 module 8 chip 1 monitor_sig 20: 354
+chanel 6 module 8 chip 1 monitor_sig 21: 393
+chanel 6 module 8 chip 1 monitor_sig 22: 913
+chanel 6 module 8 chip 1 monitor_sig 23: 501
+chanel 6 module 8 chip 1 monitor_sig 24: 447
+chanel 6 module 8 chip 1 monitor_sig 25: 369
+chanel 6 module 8 chip 1 monitor_sig 26: 109
+chanel 6 module 8 chip 1 monitor_sig 27: 164
+chanel 6 module 8 chip 1 monitor_sig 28: 612
+chanel 6 module 8 chip 1 monitor_sig 29: 1023
+chanel 6 module 8 chip 1 monitor_sig 30: 1023
+chanel 6 module 8 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+chanel 6 module 12 chip 1 monitor_sig 0: 307
+chanel 6 module 12 chip 1 monitor_sig 1: 394
+chanel 6 module 12 chip 1 monitor_sig 2: 441
+chanel 6 module 12 chip 1 monitor_sig 3: 473
+chanel 6 module 12 chip 1 monitor_sig 4: 494
+chanel 6 module 12 chip 1 monitor_sig 5: 508
+chanel 6 module 12 chip 1 monitor_sig 6: 518
+chanel 6 module 12 chip 1 monitor_sig 7: 524
+chanel 6 module 12 chip 1 monitor_sig 8: 529
+chanel 6 module 12 chip 1 monitor_sig 9: 533
+chanel 6 module 12 chip 1 monitor_sig 10: 535
+chanel 6 module 12 chip 1 monitor_sig 11: 537
+chanel 6 module 12 chip 1 monitor_sig 12: 538
+chanel 6 module 12 chip 1 monitor_sig 13: 539
+chanel 6 module 12 chip 1 monitor_sig 14: 541
+chanel 6 module 12 chip 1 monitor_sig 15: 541
+chanel 6 module 12 chip 1 monitor_sig 16: 540
+chanel 6 module 12 chip 1 monitor_sig 17: 541
+chanel 6 module 12 chip 1 monitor_sig 18: 541
+chanel 6 module 12 chip 1 monitor_sig 19: 542
+chanel 6 module 12 chip 1 monitor_sig 20: 541
+chanel 6 module 12 chip 1 monitor_sig 21: 542
+chanel 6 module 12 chip 1 monitor_sig 22: 542
+chanel 6 module 12 chip 1 monitor_sig 23: 542
+chanel 6 module 12 chip 1 monitor_sig 24: 542
+chanel 6 module 12 chip 1 monitor_sig 25: 542
+chanel 6 module 12 chip 1 monitor_sig 26: 542
+chanel 6 module 12 chip 1 monitor_sig 27: 543
+chanel 6 module 12 chip 1 monitor_sig 28: 542
+chanel 6 module 12 chip 1 monitor_sig 29: 542
+chanel 6 module 12 chip 1 monitor_sig 30: 542
+chanel 6 module 12 chip 1 monitor_sig 31: 543
+Wrong module number!
+Wrong module number!
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 7.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 251
+Timing ADC input 2: 469
+Timing ADC input 3: 581
+Timing ADC input 4: 706
+Timing ADC input 5: 952
+Timing ADC input 6: 625
+Timing ADC input 7: 616
+Timing ADC input 8: 613
+Timing ADC input 9: 29
+Timing ADC input 10: 29
+Timing ADC input 11: 31
+Timing ADC input 12: 29
+Timing ADC input 13: 28
+Timing ADC input 14: 493
+Timing ADC input 15: 510
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 7 module 0 mux channel 0: 53
+channel 7 module 0 mux channel 1: 1023
+channel 7 module 0 mux channel 2: 1023
+channel 7 module 0 mux channel 5: 753
+channel 7 module 2 mux channel 6: 52
+channel 7 module 2 mux channel 7: 1023
+channel 7 module 2 mux channel 8: 1023
+channel 7 module 2 mux channel 11: 753
+channel 7 module 4 mux channel 12: 53
+channel 7 module 4 mux channel 13: 1023
+channel 7 module 4 mux channel 14: 1023
+channel 7 module 4 mux channel 17: 753
+channel 7 module 6 mux channel 18: 53
+channel 7 module 6 mux channel 19: 1023
+channel 7 module 6 mux channel 20: 1023
+channel 7 module 6 mux channel 23: 753
+channel 7 module 8 mux channel 24: 46
+channel 7 module 8 mux channel 25: 1023
+channel 7 module 8 mux channel 26: 1023
+channel 7 module 8 mux channel 29: 736
+channel 7 module 9 mux channel 30: 29
+channel 7 module 9 mux channel 31: 28
+channel 7 module 9 mux channel 32: 29
+channel 7 module 9 mux channel 35: 29
+channel 7 module 10 mux channel 36: 29
+channel 7 module 10 mux channel 37: 29
+channel 7 module 10 mux channel 38: 29
+channel 7 module 10 mux channel 41: 29
+channel 7 module 11 mux channel 42: 28
+channel 7 module 11 mux channel 43: 28
+channel 7 module 11 mux channel 44: 29
+channel 7 module 11 mux channel 47: 28
+channel 7 module 12 mux channel 48: 46
+channel 7 module 12 mux channel 49: 1023
+channel 7 module 12 mux channel 50: 1023
+channel 7 module 12 mux channel 53: 737
+channel 7 module 13 mux channel 54: 29
+channel 7 module 13 mux channel 55: 28
+channel 7 module 13 mux channel 56: 28
+channel 7 module 13 mux channel 59: 28
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 703
+Read TEMP from PEB: 561
+read out monitor signals of front-end modules
+chanel 7 module 0 chip 0 monitor_sig 0: 375
+chanel 7 module 0 chip 0 monitor_sig 1: 757
+chanel 7 module 0 chip 0 monitor_sig 2: 302
+chanel 7 module 0 chip 0 monitor_sig 3: 475
+chanel 7 module 0 chip 0 monitor_sig 4: 1023
+chanel 7 module 0 chip 0 monitor_sig 5: 419
+chanel 7 module 0 chip 0 monitor_sig 6: 808
+chanel 7 module 0 chip 0 monitor_sig 7: 0
+chanel 7 module 0 chip 0 monitor_sig 8: 1023
+chanel 7 module 0 chip 0 monitor_sig 9: 822
+chanel 7 module 0 chip 0 monitor_sig 10: 720
+chanel 7 module 0 chip 0 monitor_sig 11: 207
+chanel 7 module 0 chip 0 monitor_sig 12: 335
+chanel 7 module 0 chip 0 monitor_sig 13: 854
+chanel 7 module 0 chip 0 monitor_sig 14: 230
+chanel 7 module 0 chip 0 monitor_sig 15: 354
+chanel 7 module 0 chip 0 monitor_sig 16: 0
+chanel 7 module 0 chip 0 monitor_sig 17: 622
+chanel 7 module 0 chip 0 monitor_sig 18: 607
+chanel 7 module 0 chip 0 monitor_sig 19: 404
+chanel 7 module 0 chip 0 monitor_sig 20: 352
+chanel 7 module 0 chip 0 monitor_sig 21: 393
+chanel 7 module 0 chip 0 monitor_sig 22: 904
+chanel 7 module 0 chip 0 monitor_sig 23: 625
+chanel 7 module 0 chip 0 monitor_sig 24: 446
+chanel 7 module 0 chip 0 monitor_sig 25: 369
+chanel 7 module 0 chip 0 monitor_sig 26: 111
+chanel 7 module 0 chip 0 monitor_sig 27: 103
+chanel 7 module 0 chip 0 monitor_sig 28: 0
+chanel 7 module 0 chip 0 monitor_sig 29: 1023
+chanel 7 module 0 chip 0 monitor_sig 30: 1023
+chanel 7 module 0 chip 0 monitor_sig 31: 1023
+chanel 7 module 0 chip 1 monitor_sig 0: 400
+chanel 7 module 0 chip 1 monitor_sig 1: 758
+chanel 7 module 0 chip 1 monitor_sig 2: 317
+chanel 7 module 0 chip 1 monitor_sig 3: 477
+chanel 7 module 0 chip 1 monitor_sig 4: 1023
+chanel 7 module 0 chip 1 monitor_sig 5: 402
+chanel 7 module 0 chip 1 monitor_sig 6: 806
+chanel 7 module 0 chip 1 monitor_sig 7: 0
+chanel 7 module 0 chip 1 monitor_sig 8: 1023
+chanel 7 module 0 chip 1 monitor_sig 9: 819
+chanel 7 module 0 chip 1 monitor_sig 10: 715
+chanel 7 module 0 chip 1 monitor_sig 11: 197
+chanel 7 module 0 chip 1 monitor_sig 12: 327
+chanel 7 module 0 chip 1 monitor_sig 13: 858
+chanel 7 module 0 chip 1 monitor_sig 14: 229
+chanel 7 module 0 chip 1 monitor_sig 15: 356
+chanel 7 module 0 chip 1 monitor_sig 16: 0
+chanel 7 module 0 chip 1 monitor_sig 17: 630
+chanel 7 module 0 chip 1 monitor_sig 18: 584
+chanel 7 module 0 chip 1 monitor_sig 19: 389
+chanel 7 module 0 chip 1 monitor_sig 20: 347
+chanel 7 module 0 chip 1 monitor_sig 21: 386
+chanel 7 module 0 chip 1 monitor_sig 22: 897
+chanel 7 module 0 chip 1 monitor_sig 23: 660
+chanel 7 module 0 chip 1 monitor_sig 24: 441
+chanel 7 module 0 chip 1 monitor_sig 25: 362
+chanel 7 module 0 chip 1 monitor_sig 26: 105
+chanel 7 module 0 chip 1 monitor_sig 27: 182
+chanel 7 module 0 chip 1 monitor_sig 28: 0
+chanel 7 module 0 chip 1 monitor_sig 29: 1023
+chanel 7 module 0 chip 1 monitor_sig 30: 1023
+chanel 7 module 0 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 7 module 4 chip 0 monitor_sig 0: 1023
+chanel 7 module 4 chip 0 monitor_sig 1: 1023
+chanel 7 module 4 chip 0 monitor_sig 2: 1023
+chanel 7 module 4 chip 0 monitor_sig 3: 1023
+chanel 7 module 4 chip 0 monitor_sig 4: 1023
+chanel 7 module 4 chip 0 monitor_sig 5: 1023
+chanel 7 module 4 chip 0 monitor_sig 6: 1023
+chanel 7 module 4 chip 0 monitor_sig 7: 1023
+chanel 7 module 4 chip 0 monitor_sig 8: 1023
+chanel 7 module 4 chip 0 monitor_sig 9: 1023
+chanel 7 module 4 chip 0 monitor_sig 10: 1023
+chanel 7 module 4 chip 0 monitor_sig 11: 1023
+chanel 7 module 4 chip 0 monitor_sig 12: 1023
+chanel 7 module 4 chip 0 monitor_sig 13: 1023
+chanel 7 module 4 chip 0 monitor_sig 14: 1023
+chanel 7 module 4 chip 0 monitor_sig 15: 1023
+chanel 7 module 4 chip 0 monitor_sig 16: 1023
+chanel 7 module 4 chip 0 monitor_sig 17: 1023
+chanel 7 module 4 chip 0 monitor_sig 18: 1023
+chanel 7 module 4 chip 0 monitor_sig 19: 1023
+chanel 7 module 4 chip 0 monitor_sig 20: 1023
+chanel 7 module 4 chip 0 monitor_sig 21: 1023
+chanel 7 module 4 chip 0 monitor_sig 22: 1023
+chanel 7 module 4 chip 0 monitor_sig 23: 1023
+chanel 7 module 4 chip 0 monitor_sig 24: 1023
+chanel 7 module 4 chip 0 monitor_sig 25: 1023
+chanel 7 module 4 chip 0 monitor_sig 26: 1023
+chanel 7 module 4 chip 0 monitor_sig 27: 1023
+chanel 7 module 4 chip 0 monitor_sig 28: 1023
+chanel 7 module 4 chip 0 monitor_sig 29: 1023
+chanel 7 module 4 chip 0 monitor_sig 30: 1023
+chanel 7 module 4 chip 0 monitor_sig 31: 1023
+chanel 7 module 4 chip 1 monitor_sig 0: 377
+chanel 7 module 4 chip 1 monitor_sig 1: 752
+chanel 7 module 4 chip 1 monitor_sig 2: 295
+chanel 7 module 4 chip 1 monitor_sig 3: 455
+chanel 7 module 4 chip 1 monitor_sig 4: 1023
+chanel 7 module 4 chip 1 monitor_sig 5: 407
+chanel 7 module 4 chip 1 monitor_sig 6: 802
+chanel 7 module 4 chip 1 monitor_sig 7: 0
+chanel 7 module 4 chip 1 monitor_sig 8: 1023
+chanel 7 module 4 chip 1 monitor_sig 9: 817
+chanel 7 module 4 chip 1 monitor_sig 10: 716
+chanel 7 module 4 chip 1 monitor_sig 11: 207
+chanel 7 module 4 chip 1 monitor_sig 12: 338
+chanel 7 module 4 chip 1 monitor_sig 13: 886
+chanel 7 module 4 chip 1 monitor_sig 14: 238
+chanel 7 module 4 chip 1 monitor_sig 15: 367
+chanel 7 module 4 chip 1 monitor_sig 16: 0
+chanel 7 module 4 chip 1 monitor_sig 17: 671
+chanel 7 module 4 chip 1 monitor_sig 18: 608
+chanel 7 module 4 chip 1 monitor_sig 19: 399
+chanel 7 module 4 chip 1 monitor_sig 20: 354
+chanel 7 module 4 chip 1 monitor_sig 21: 394
+chanel 7 module 4 chip 1 monitor_sig 22: 903
+chanel 7 module 4 chip 1 monitor_sig 23: 644
+chanel 7 module 4 chip 1 monitor_sig 24: 453
+chanel 7 module 4 chip 1 monitor_sig 25: 374
+chanel 7 module 4 chip 1 monitor_sig 26: 110
+chanel 7 module 4 chip 1 monitor_sig 27: 497
+chanel 7 module 4 chip 1 monitor_sig 28: 82
+chanel 7 module 4 chip 1 monitor_sig 29: 1023
+chanel 7 module 4 chip 1 monitor_sig 30: 1023
+chanel 7 module 4 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+chanel 7 module 8 chip 0 monitor_sig 0: 389
+chanel 7 module 8 chip 0 monitor_sig 1: 765
+[SerialComm] deleting instance after 4372 transactions.
+chanel 7 module 8 chip 0 monitor_sig 2: 309
+chanel 7 module 8 chip 0 monitor_sig 3: 461
+chanel 7 module 8 chip 0 monitor_sig 4: 1023
+chanel 7 module 8 chip 0 monitor_sig 5: 409
+chanel 7 module 8 chip 0 monitor_sig 6: 810
+chanel 7 module 8 chip 0 monitor_sig 7: 0
+chanel 7 module 8 chip 0 monitor_sig 8: 1023
+chanel 7 module 8 chip 0 monitor_sig 9: 828
+chanel 7 module 8 chip 0 monitor_sig 10: 723
+chanel 7 module 8 chip 0 monitor_sig 11: 205
+chanel 7 module 8 chip 0 monitor_sig 12: 331
+chanel 7 module 8 chip 0 monitor_sig 13: 877
+chanel 7 module 8 chip 0 monitor_sig 14: 217
+chanel 7 module 8 chip 0 monitor_sig 15: 339
+chanel 7 module 8 chip 0 monitor_sig 16: 0
+chanel 7 module 8 chip 0 monitor_sig 17: 627
+chanel 7 module 8 chip 0 monitor_sig 18: 595
+chanel 7 module 8 chip 0 monitor_sig 19: 400
+chanel 7 module 8 chip 0 monitor_sig 20: 349
+chanel 7 module 8 chip 0 monitor_sig 21: 388
+chanel 7 module 8 chip 0 monitor_sig 22: 912
+chanel 7 module 8 chip 0 monitor_sig 23: 655
+chanel 7 module 8 chip 0 monitor_sig 24: 442
+chanel 7 module 8 chip 0 monitor_sig 25: 367
+chanel 7 module 8 chip 0 monitor_sig 26: 108
+chanel 7 module 8 chip 0 monitor_sig 27: 190
+chanel 7 module 8 chip 0 monitor_sig 28: 0
+chanel 7 module 8 chip 0 monitor_sig 29: 1023
+chanel 7 module 8 chip 0 monitor_sig 30: 731
+chanel 7 module 8 chip 0 monitor_sig 31: 0
+chanel 7 module 8 chip 1 monitor_sig 0: 409
+chanel 7 module 8 chip 1 monitor_sig 1: 778
+chanel 7 module 8 chip 1 monitor_sig 2: 327
+chanel 7 module 8 chip 1 monitor_sig 3: 497
+chanel 7 module 8 chip 1 monitor_sig 4: 1023
+chanel 7 module 8 chip 1 monitor_sig 5: 402
+chanel 7 module 8 chip 1 monitor_sig 6: 824
+chanel 7 module 8 chip 1 monitor_sig 7: 0
+chanel 7 module 8 chip 1 monitor_sig 8: 1023
+chanel 7 module 8 chip 1 monitor_sig 9: 836
+chanel 7 module 8 chip 1 monitor_sig 10: 733
+chanel 7 module 8 chip 1 monitor_sig 11: 197
+chanel 7 module 8 chip 1 monitor_sig 12: 325
+chanel 7 module 8 chip 1 monitor_sig 13: 860
+chanel 7 module 8 chip 1 monitor_sig 14: 227
+chanel 7 module 8 chip 1 monitor_sig 15: 354
+chanel 7 module 8 chip 1 monitor_sig 16: 0
+chanel 7 module 8 chip 1 monitor_sig 17: 585
+chanel 7 module 8 chip 1 monitor_sig 18: 569
+chanel 7 module 8 chip 1 monitor_sig 19: 382
+chanel 7 module 8 chip 1 monitor_sig 20: 345
+chanel 7 module 8 chip 1 monitor_sig 21: 381
+chanel 7 module 8 chip 1 monitor_sig 22: 909
+chanel 7 module 8 chip 1 monitor_sig 23: 639
+chanel 7 module 8 chip 1 monitor_sig 24: 435
+chanel 7 module 8 chip 1 monitor_sig 25: 359
+chanel 7 module 8 chip 1 monitor_sig 26: 98
+chanel 7 module 8 chip 1 monitor_sig 27: 234
+chanel 7 module 8 chip 1 monitor_sig 28: 11
+chanel 7 module 8 chip 1 monitor_sig 29: 1023
+chanel 7 module 8 chip 1 monitor_sig 30: 1023
+chanel 7 module 8 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 8.***
+
+
+***Use the default file to configure PEB beacause no file is input.***
+
+read out ADC channel 1 to 15
+Timing ADC input 1: 240
+Timing ADC input 2: 476
+Timing ADC input 3: 593
+Timing ADC input 4: 713
+Timing ADC input 5: 951
+Timing ADC input 6: 609
+Timing ADC input 7: 627
+Timing ADC input 8: 627
+Timing ADC input 9: 39
+Timing ADC input 10: 39
+Timing ADC input 11: 40
+Timing ADC input 12: 39
+Timing ADC input 13: 38
+Timing ADC input 14: 492
+Timing ADC input 15: 518
+read out Mon_GND, Mon_VDDA, Mon_VDDD, NTC
+channel 8 module 0 mux channel 0: 606
+channel 8 module 0 mux channel 1: 606
+channel 8 module 0 mux channel 2: 606
+channel 8 module 0 mux channel 5: 1023
+channel 8 module 2 mux channel 6: 606
+channel 8 module 2 mux channel 7: 606
+channel 8 module 2 mux channel 8: 607
+channel 8 module 2 mux channel 11: 1023
+channel 8 module 4 mux channel 12: 60
+channel 8 module 4 mux channel 13: 1023
+channel 8 module 4 mux channel 14: 1023
+channel 8 module 4 mux channel 17: 742
+channel 8 module 6 mux channel 18: 60
+channel 8 module 6 mux channel 19: 1023
+channel 8 module 6 mux channel 20: 1023
+channel 8 module 6 mux channel 23: 742
+channel 8 module 8 mux channel 24: 57
+channel 8 module 8 mux channel 25: 1023
+channel 8 module 8 mux channel 26: 1023
+channel 8 module 8 mux channel 29: 759
+channel 8 module 9 mux channel 30: 38
+channel 8 module 9 mux channel 31: 38
+channel 8 module 9 mux channel 32: 39
+channel 8 module 9 mux channel 35: 38
+channel 8 module 10 mux channel 36: 38
+channel 8 module 10 mux channel 37: 39
+channel 8 module 10 mux channel 38: 38
+channel 8 module 10 mux channel 41: 39
+channel 8 module 11 mux channel 42: 38
+channel 8 module 11 mux channel 43: 39
+channel 8 module 11 mux channel 44: 38
+channel 8 module 11 mux channel 47: 39
+channel 8 module 12 mux channel 48: 57
+channel 8 module 12 mux channel 49: 1023
+channel 8 module 12 mux channel 50: 1023
+channel 8 module 12 mux channel 53: 759
+channel 8 module 13 mux channel 54: 39
+channel 8 module 13 mux channel 55: 39
+channel 8 module 13 mux channel 56: 39
+channel 8 module 13 mux channel 59: 39
+read out 1/2 1V2_peb, MON_NTC_PEB
+Read 1/2 1V2_peb: 731
+Read TEMP from PEB: 558
+read out monitor signals of front-end modules
+Wrong module number!
+Wrong module number!
+chanel 8 module 4 chip 0 monitor_sig 0: 452
+chanel 8 module 4 chip 0 monitor_sig 1: 830
+chanel 8 module 4 chip 0 monitor_sig 2: 372
+chanel 8 module 4 chip 0 monitor_sig 3: 538
+chanel 8 module 4 chip 0 monitor_sig 4: 1023
+chanel 8 module 4 chip 0 monitor_sig 5: 417
+chanel 8 module 4 chip 0 monitor_sig 6: 881
+chanel 8 module 4 chip 0 monitor_sig 7: 0
+chanel 8 module 4 chip 0 monitor_sig 8: 1023
+chanel 8 module 4 chip 0 monitor_sig 9: 889
+chanel 8 module 4 chip 0 monitor_sig 10: 782
+chanel 8 module 4 chip 0 monitor_sig 11: 218
+chanel 8 module 4 chip 0 monitor_sig 12: 342
+chanel 8 module 4 chip 0 monitor_sig 13: 878
+chanel 8 module 4 chip 0 monitor_sig 14: 231
+chanel 8 module 4 chip 0 monitor_sig 15: 350
+chanel 8 module 4 chip 0 monitor_sig 16: 0
+chanel 8 module 4 chip 0 monitor_sig 17: 621
+chanel 8 module 4 chip 0 monitor_sig 18: 596
+chanel 8 module 4 chip 0 monitor_sig 19: 405
+chanel 8 module 4 chip 0 monitor_sig 20: 359
+chanel 8 module 4 chip 0 monitor_sig 21: 398
+chanel 8 module 4 chip 0 monitor_sig 22: 963
+chanel 8 module 4 chip 0 monitor_sig 23: 628
+chanel 8 module 4 chip 0 monitor_sig 24: 452
+chanel 8 module 4 chip 0 monitor_sig 25: 377
+chanel 8 module 4 chip 0 monitor_sig 26: 117
+chanel 8 module 4 chip 0 monitor_sig 27: 50
+chanel 8 module 4 chip 0 monitor_sig 28: 0
+chanel 8 module 4 chip 0 monitor_sig 29: 1023
+chanel 8 module 4 chip 0 monitor_sig 30: 0
+chanel 8 module 4 chip 0 monitor_sig 31: 0
+chanel 8 module 4 chip 1 monitor_sig 0: 0
+chanel 8 module 4 chip 1 monitor_sig 1: 0
+chanel 8 module 4 chip 1 monitor_sig 2: 0
+chanel 8 module 4 chip 1 monitor_sig 3: 0
+chanel 8 module 4 chip 1 monitor_sig 4: 0
+chanel 8 module 4 chip 1 monitor_sig 5: 0
+chanel 8 module 4 chip 1 monitor_sig 6: 0
+chanel 8 module 4 chip 1 monitor_sig 7: 0
+chanel 8 module 4 chip 1 monitor_sig 8: 0
+chanel 8 module 4 chip 1 monitor_sig 9: 0
+chanel 8 module 4 chip 1 monitor_sig 10: 0
+chanel 8 module 4 chip 1 monitor_sig 11: 0
+chanel 8 module 4 chip 1 monitor_sig 12: 0
+chanel 8 module 4 chip 1 monitor_sig 13: 0
+chanel 8 module 4 chip 1 monitor_sig 14: 0
+chanel 8 module 4 chip 1 monitor_sig 15: 0
+chanel 8 module 4 chip 1 monitor_sig 16: 0
+chanel 8 module 4 chip 1 monitor_sig 17: 0
+chanel 8 module 4 chip 1 monitor_sig 18: 0
+chanel 8 module 4 chip 1 monitor_sig 19: 0
+chanel 8 module 4 chip 1 monitor_sig 20: 0
+chanel 8 module 4 chip 1 monitor_sig 21: 0
+chanel 8 module 4 chip 1 monitor_sig 22: 0
+chanel 8 module 4 chip 1 monitor_sig 23: 0
+chanel 8 module 4 chip 1 monitor_sig 24: 0
+chanel 8 module 4 chip 1 monitor_sig 25: 0
+chanel 8 module 4 chip 1 monitor_sig 26: 0
+chanel 8 module 4 chip 1 monitor_sig 27: 0
+chanel 8 module 4 chip 1 monitor_sig 28: 0
+chanel 8 module 4 chip 1 monitor_sig 29: 0
+chanel 8 module 4 chip 1 monitor_sig 30: 0
+chanel 8 module 4 chip 1 monitor_sig 31: 0
+Wrong module number!
+Wrong module number!
+chanel 8 module 8 chip 0 monitor_sig 0: 1023
+chanel 8 module 8 chip 0 monitor_sig 1: 1023
+chanel 8 module 8 chip 0 monitor_sig 2: 1023
+chanel 8 module 8 chip 0 monitor_sig 3: 1023
+chanel 8 module 8 chip 0 monitor_sig 4: 1023
+chanel 8 module 8 chip 0 monitor_sig 5: 1023
+chanel 8 module 8 chip 0 monitor_sig 6: 1023
+chanel 8 module 8 chip 0 monitor_sig 7: 1023
+chanel 8 module 8 chip 0 monitor_sig 8: 1023
+chanel 8 module 8 chip 0 monitor_sig 9: 1023
+chanel 8 module 8 chip 0 monitor_sig 10: 1023
+chanel 8 module 8 chip 0 monitor_sig 11: 1023
+chanel 8 module 8 chip 0 monitor_sig 12: 1023
+chanel 8 module 8 chip 0 monitor_sig 13: 1023
+chanel 8 module 8 chip 0 monitor_sig 14: 1023
+chanel 8 module 8 chip 0 monitor_sig 15: 1023
+chanel 8 module 8 chip 0 monitor_sig 16: 1023
+chanel 8 module 8 chip 0 monitor_sig 17: 1023
+chanel 8 module 8 chip 0 monitor_sig 18: 1023
+chanel 8 module 8 chip 0 monitor_sig 19: 1023
+chanel 8 module 8 chip 0 monitor_sig 20: 1023
+chanel 8 module 8 chip 0 monitor_sig 21: 1023
+chanel 8 module 8 chip 0 monitor_sig 22: 1023
+chanel 8 module 8 chip 0 monitor_sig 23: 1023
+chanel 8 module 8 chip 0 monitor_sig 24: 1023
+chanel 8 module 8 chip 0 monitor_sig 25: 1023
+chanel 8 module 8 chip 0 monitor_sig 26: 1023
+chanel 8 module 8 chip 0 monitor_sig 27: 1023
+chanel 8 module 8 chip 0 monitor_sig 28: 1023
+chanel 8 module 8 chip 0 monitor_sig 29: 1023
+chanel 8 module 8 chip 0 monitor_sig 30: 1023
+chanel 8 module 8 chip 0 monitor_sig 31: 1023
+chanel 8 module 8 chip 1 monitor_sig 0: 1023
+chanel 8 module 8 chip 1 monitor_sig 1: 1023
+chanel 8 module 8 chip 1 monitor_sig 2: 1023
+chanel 8 module 8 chip 1 monitor_sig 3: 1023
+chanel 8 module 8 chip 1 monitor_sig 4: 1023
+chanel 8 module 8 chip 1 monitor_sig 5: 1023
+chanel 8 module 8 chip 1 monitor_sig 6: 1023
+chanel 8 module 8 chip 1 monitor_sig 7: 1023
+chanel 8 module 8 chip 1 monitor_sig 8: 1023
+chanel 8 module 8 chip 1 monitor_sig 9: 1023
+chanel 8 module 8 chip 1 monitor_sig 10: 1023
+chanel 8 module 8 chip 1 monitor_sig 11: 1023
+chanel 8 module 8 chip 1 monitor_sig 12: 1023
+chanel 8 module 8 chip 1 monitor_sig 13: 1023
+chanel 8 module 8 chip 1 monitor_sig 14: 1023
+chanel 8 module 8 chip 1 monitor_sig 15: 1023
+chanel 8 module 8 chip 1 monitor_sig 16: 1023
+chanel 8 module 8 chip 1 monitor_sig 17: 1023
+chanel 8 module 8 chip 1 monitor_sig 18: 1023
+chanel 8 module 8 chip 1 monitor_sig 19: 1023
+chanel 8 module 8 chip 1 monitor_sig 20: 1023
+chanel 8 module 8 chip 1 monitor_sig 21: 1023
+chanel 8 module 8 chip 1 monitor_sig 22: 1023
+chanel 8 module 8 chip 1 monitor_sig 23: 1023
+chanel 8 module 8 chip 1 monitor_sig 24: 1023
+chanel 8 module 8 chip 1 monitor_sig 25: 1023
+chanel 8 module 8 chip 1 monitor_sig 26: 1023
+chanel 8 module 8 chip 1 monitor_sig 27: 1023
+chanel 8 module 8 chip 1 monitor_sig 28: 1023
+chanel 8 module 8 chip 1 monitor_sig 29: 1023
+chanel 8 module 8 chip 1 monitor_sig 30: 1023
+chanel 8 module 8 chip 1 monitor_sig 31: 1023
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+Wrong module number!
+[SerialComm] deleting instance after 3112 transactions.
+Wrong module number!

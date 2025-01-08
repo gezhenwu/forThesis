@@ -1,0 +1,43 @@
+Vref = 0.5*Vref, inn=15, gain=0
+
+***FLX-device number is 0. GBT-link number is 0.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Module 9 asic 0 muxChannel 35 ADC_value 154
+Module 9 asic 1 muxChannel 35 ADC_value 154
+Module 10 asic 0 muxChannel 41 ADC_value 148
+Module 10 asic 1 muxChannel 41 ADC_value 148
+Module 11 asic 0 muxChannel 47 ADC_value 155
+Module 11 asic 1 muxChannel 47 ADC_value 155
+Module 12 asic 0 muxChannel 53 ADC_value 150
+Module 12 asic 1 muxChannel 53 ADC_value 152
+Module 13 asic 0 muxChannel 59 ADC_value 148
+Module 13 asic 1 muxChannel 59 ADC_value 149
+
+***FLX-device number is 0. GBT-link number is 1.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Module 9 asic 0 muxChannel 35 ADC_value 1023
+Module 9 asic 1 muxChannel 35 ADC_value 1023
+Module 10 asic 0 muxChannel 41 ADC_value 152
+Module 10 asic 1 muxChannel 41 ADC_value 152
+Module 11 asic 0 muxChannel 47 ADC_value 150
+Module 11 asic 1 muxChannel 47 ADC_value 150
+Module 12 asic 0 muxChannel 53 ADC_value 150
+Module 12 asic 1 muxChannel 53 ADC_value 150
+Module 13 asic 0 muxChannel 59 ADC_value 151
+Module 13 asic 1 muxChannel 59 ADC_value 151
+
+***FLX-device number is 0. GBT-link number is 2.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Module 9 asic 0 muxChannel 35 ADC_value 141
+Module 9 asic 1 muxChannel 35 ADC_value 141
+Module 10 asic 0 muxChannel 41 ADC_value 139
+Module 10 asic 1 muxChannel 41 ADC_value 141
+Module 11 asic 0 muxChannel 47 ADC_value 143
+Module 11 asic 1 muxChannel 47 ADC_value 144
+Module 12 asic 0 muxChannel 53 ADC_value 146
+Module 12 asic 1 muxChannel 53 ADC_value 146
+Module 13 asic 0 muxChannel 59 ADC_value 149
+Module 13 asic 1 muxChannel 59 ADC_value 148

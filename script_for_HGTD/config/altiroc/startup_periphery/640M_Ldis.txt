@@ -1,0 +1,334 @@
+
+# ============================================================
+# ================= Bandgap =======================
+# ============================================================
+0x1000   , B'0000-1010,       # CONF_BANDGAP
+                              #  VALUE[3:0]
+							  
+# ============================================================
+# ================= DACs=======================
+# ============================================================
+0x1001   , B'00000000,        # CONF_DAC_RPG1
+                              #  VALUE_LSB[7:0]
+
+0x1002   , B'00-101-0-00,     # CONF_DAC_RPG2
+                              #  VALUE_MSB[1:0]
+                              #  ENABLE[2]
+                              #  SET_PROBE[5:3]
+
+0x1003   , B'0-0-100000,      # CONF_DAC_PULSER
+                              #  VALUE[5:0]
+                              #  RANGE[6:6]
+
+0x1004   , B'00000-100,       # CONF_DAC_BIAS_ID_PA
+                              #  VALUE[2:0]
+
+0x1005   , B'0000-1010,       # CONF_DAC_DC_LEVEL_PA
+                              #  VALUE[3:0]
+
+0x1006   , B'00000000,        # CONF_DAC_VTH1
+                              #  VALUE_LSB[7:0]
+
+0x1007   , B'000-11-1-11,     # CONF_DAC_VTH2
+                              #  VALUE_MSB[1:0]
+                              #  ENABLE[2]
+                              #  VTH_RANGE[4:3]
+
+0x1008   , B'11110000,        # CONF_DAC_VCTRL_120PS
+                              #  VALUE_LSB[7:0]
+
+0x1009   , B'10010000,        # CONF_DAC_VCTRL_140PS
+                              #  VALUE_LSB[7:0]
+
+0x100A   , B'00110100,        # CONF_DAC_VCTRL_160PS
+                              #  VALUE_LSB[7:0]
+
+0x100B   , B'00-10-01-00,     # CONF_DACS_VCTRL
+                              #  VALUE_MSB_120PS[1:0]
+                              #  VALUE_MSB_140PS[3:2]
+                              #  VALUE_MSB_160PS[5:4]
+
+0x100C   , B'00000-111,       # CONF_DAC_OR_DLL_CTRL
+                              #  SEL_120PS[0]
+                              #  SEL_140PS[1]
+                              #  SEL_160PS[2]
+							  
+# ============================================================
+# ================= DLL =======================
+# ============================================================
+0x100D   , B'0-0-0-0-0-0-0-0, # CONF_DLL_CTRL
+                              #  ENABLE_ALOCKR[0]
+                              #  ENABLE_120PS_EXT_VCTRL[1]
+                              #  ENABLE_140PS_EXT_VCTRL[2]
+                              #  ENABLE_160PS_EXT_VCTRL[3]
+                              #  ENABLE_OTA_120PS[4]
+                              #  ENABLE_OTA_140PS[5]
+                              #  ENABLE_OTA_160PS[6]
+
+0x100E   , B'00000-000,       # CONF_DLL_120PS_1
+                              #  CBIT_MSB[2:0]
+                              #  CHARGE_PUMP_CURRENT[7:3]
+
+0x100F   , B'0-0-000000,      # CONF_DLL_120PS_2
+                              #  COMP[5:0]
+                              #  UP_DOWN[6]
+                              #  CBIT_LSB[7]
+
+0x1010   , B'00000-000,       # CONF_DLL_140PS_1
+                              #  CBIT_MSB[2:0]
+                              #  CHARGE_PUMP_CURRENT[7:3]
+
+0x1011   , B'0-0-000000,      # CONF_DLL_140PS_2
+                              #  COMP[5:0]
+                              #  UP_DOWN[6]
+                              #  CBIT_LSB[7]
+
+0x1012   , B'00000-000,       # CONF_DLL_160PS_1
+                              #  CBIT_MSB[2:0]
+                              #  CHARGE_PUMP_CURRENT[7:3]
+
+0x1013   , B'0-0-000000,      # CONF_DLL_160PS_2
+                              #  COMP[5:0]
+                              #  UP_DOWN[6]
+                              #  CBIT_LSB[7]
+
+# ============================================================
+# ================= PLL =======================
+# ============================================================
+0x1016   , B'00-111111,       # CONF_PLL_CP
+                              #  CHARGE_PUMP_CURRENT[5:0]
+
+0x1017   , B'0-0-1-1-1-1-1-1, # CONF_PLL_CTRL
+                              #  ENABLE_PLL[0]
+                              #  ENABLE_500[1]
+                              #  ENABLE_1000[2]
+                              #  ENABLE_2000[3]
+                              #  ENABLE_4000[4]
+                              #  ENABLE_200p[5]
+                              #  ENABLE_EXT_VCO[6]
+
+0x1018   , B'10-011001,       # CONF_PLL_LOCK
+                              #  SAMPLES_VALUE[5:0]
+                              #  PRECISION_VALUE[7:6]
+
+0x1019   , B'0-1-0-0-0000,    # CONF_PLL_DEBUG_CTRL
+                              #  SEL_CLK_PHASE[3:0]
+                              #  BYPASS[4]: don’t forget to bypass PLL Lock AND enable RX_CLK_PAD640 in this case
+                              #  BYPASS_LOCK[5]
+                              #  FORCE_LOCK[6]
+
+#============================================================
+# ================= PS =======================
+# ============================================================
+0x101B   , B'0-000-0000,       # CONF_CLKS_CTRL
+                              #  CLK40TDC_COARSE_DELAY[3:0]: Coarse delay for 40MHz TDC
+                              #  CLK40_DELAY[6:4]: Coarse delay (1.562ns) for 40MHz int respecting CONF_CLKS_CTRL_CLK40_DELAY Table
+
+0x101C   , B'0000-0000,       # CONF_PHASE_SHIFTER_CLKS
+                              #  CLK40TDC_FINE_DELAY[3:0]: Fine delay (97 ps) for 40MHz TDC
+                              #  CLK640LUMI_DELAY[7:4]: Fine delay for 640MHz Luminosity
+
+0x101D   , B'0-000-1-0-00,    # CONF_PHASE_SHIFTER_CTRL
+                              #  INIT_VOLTAGE_SEL[1:0]: Vinit=1.2V - 01: 1V, 10: 0.8V, 11: 0.5V
+                              #  FORCEDOWN[2]
+                              #  ENABLE_LOCK_DETECTION[3]
+                              #  INIT[6:4]
+
+0x101D   , B'0-111-1-0-00,    # CONF_PHASE_SHIFTER_CTRL
+                              #  INIT_VOLTAGE_SEL[1:0]: Vinit=1.2V - 01: 1V, 10: 0.8V, 11: 0.5V
+                              #  FORCEDOWN[2]
+                              #  ENABLE_LOCK_DETECTION[3]
+                              #  INIT[6:4]
+
+
+0x101E   , B'1-1-0-0-1111,    # CONF_PHASE_SHIFTER_DEBUG_CTRL
+                              #  CHARGE_PUMP_CURRENT[3:0]
+                              #  BYPASS_640_LUMI[4]: don’t forget to bypass PS Lock and AND enable RX_CLK_640LUMI in this case
+                              #  BYPASS_640_TDC[5]: don’t forget to bypass PS Lock and AND enable RX_CLK_640TDC in this case
+                              #  BYPASS_LOCK[6]
+                              #  FORCE_LOCK[7]
+
+
+
+# ============================================================
+# =============Fast Command Control Unit======
+# ============================================================
+0x2002   , B'00000-0-0-0,     # CONF_FCCU_CTRL
+                              #  SEL_MODE_40LPGBT_40PS[0]: Phase selectors 40lpgbt/40ps; 0 : automatic mode; 1: manual mode
+                              #  SEL_EDGE_40LPGBT_40PS[1]: Edge selectors 40lpgbt/40ps; 0 : negedge; 1: posedge (ONLY in manual mode)
+                              #  SEL_SAMP_EDGE[2]: Sampling edge of fast command in input; 0: negedge; 1 : posedge edge
+                                                  
+# == PLL and PS bypass for debug (ext_clk640)
+                 
+0x2001   , B'1-1-1-10101,     # CONF_DEBUG_CTRL_CLK_TREE
+                              #  MAGIC_NUMBER[4:0]
+                              #  ENABLE_CLKA[5]
+                              #  ENABLE_CLKB[6]
+                              #  ENABLE_CLKC[7]
+
+0x2003   , B'0-0-0-0-0-0-0-1, # CONF_CDC_CTRL
+                              #  SEL_MODE_640PLL_640PS[0]       # 7/12/23 if 0 strange delay scan results
+                              #  SEL_EDGE_640PLL_640PS[1]
+                              #  SEL_MODE_640PLL_640PS_LUMI[2]
+                              #  SEL_EDGE_640PLL_640PS_LUMI[3]
+                              #  SEL_MODE_80PS_80LPGBT[4]
+                              #  SEL_EDGE_80PS_80LPGBT[5]
+                              #  SEL_MODE_40PS_40LPGBT[6]
+                              #  SEL_EDGE_40PS_40LPGBT[7]
+
+
+# ============================================================
+# =============Command Pulse generator======
+# ============================================================
+0x2004   , B'00-1-0-0101,     # CONF_CMD_CAL_CTRL
+                              #  PHASE[3:0]
+                              #  SEL_EDGE[4]
+                              #  ENABLE_CLK[5]
+                              #  SEL_MODE[7:6]
+
+0x2005   , B'00-001000,       # CONF_CMD_CAL_PULSE
+                              #  LENGTH[5:0]
+
+# ============================================================
+# =============TOT Pulse generator======
+# ============================================================
+0x2006   , B'0-0-1-0-0000,    # CONF_CMD_TOT_CTRL
+                              #  PHASE[3:0]
+                              #  SEL_EDGE[4]
+                              #  ENABLE_CLK[5]
+                              #  SEL_MODE[6]
+
+0x2007   , B'000-00111,       #  CONF_CMD_TOT_PULSE
+                              #  LENGTH[4:0]
+
+# ============================================================                          
+# =============Debug and monitoring signals======
+# ============================================================   
+
+0x1014   , B'0-0-0-00000,     # CONF_SEL_PROBE_BIAS
+                              #  ADDRESS[4:0]
+                              #  ENABLE[5]
+                              #  ENABLE_TX_PAD_DISC[6]
+
+0x1015   , B'0-0-0-00000,     # CONF_SEL_PROBE_MONITOR
+                              #  ADDRESS[4:0]
+                              #  ENABLE[5]
+                              #  OTA_ENABLE[6]
+
+0x2008   , B'0000-1111,       # CONF_ENABLE_PADS1
+                              #  TX_TIMING_AMP[3:0]
+                              #  TX_TIMING_PRE[7:4]
+
+0x2009   , B'0000-0000,       # CONF_ENABLE_PADS2
+                              #  TX_LUMI_AMP[3:0]
+                              #  TX_LUMI_PRE[7:4]
+
+0x200A   , B'0-0-0-0-00-00,   # CONF_ENABLE_PADS3
+                              #  TX_TIMING_D[1:0]
+                              #  TX_LUMI_D[3:2]
+                              #  TX_LUMI_WIN1[4]
+                              #  TX_LUMI_WIN2[5]
+                              #  RX_EXT_CAL_PULSE[6]
+                              #  RX_EXT_TOT_PULSE[7]
+
+0x200B   , B'0-0-0-0-0-0-0-0, # CONF_ENABLE_TEST_PADS
+                              #  RX_CLK_640[0]
+                              #  RX_CLK_640LUMI[1]
+                              #  RX_CLK_640TDC[2]
+                              #  TX_CLK_MUX1[3]
+                              #  TX_CLK_MUX2[4]
+                              #  TX_PROBE_DIG1[5]
+                              #  TX_PROBE_DIG2[6]
+                              #  TX_TOA_BUSY[7]
+							  
+0x200C   , B'00-111111,       # CONF_CLK_TEST_PADS1
+                              #  SEL_CLK1_TX[5:0]
+
+0x200D   , B'00-111111,       # CONF_CLK_TEST_PADS2
+                              #  SEL_CLK2_TX[5:0]
+
+0x200E   , B'1111-1111,       # CONF_PROBE_DIG_TEST_PADS
+                              #  SEL_PROBE_DIG1[3:0]
+                              #  SEL_PROBE_DIG2[7:4]
+
+0x200F   , B'1111-1111,       # CONF_PROBE_PIX_ADDR
+                              #  COLUMN[3:0]  
+                              #  ROW[7:4]
+
+0x2010   , B'0-0-0-0-0000,    # CONF_GLOBAL_ENABLE_PROBE  
+                              #  DIG_COLUMN[3:0]
+                              #  VTHC[4]
+                              #  PA[5]
+                              #  DISCR[6]
+                              #  PA_CURRENT_BUFFER[7]
+							  
+0x2021   , B'000000-0-0,      # CONF_ADC_CTRL
+                              #  ENABLE_CLK[0]
+                              #  SEL_SLOW_CLK[1:1]
+
+# ============================================================
+# =============Global pixel parameters======
+# ============================================================
+0x2011   , B'0-1-11-0-1-1-0,  # RESET TDC
+#chaged marko 5:4(00-11)
+0x2011   , B'0-1-00-0-1-1-1,  # CONF_GLOBAL_CTRL
+                              #  TDC_ENABLE[0]
+                              #  TOA_SAT_OVERFLOW[1]
+                              #  TOTC_SAT_OVERFLOW[2]
+                              #  SEL_CP[3]
+                              #  SEL_CD[5:4]
+                              #  EN_RTEST[6]
+                              #  EN_SMALL_CTEST[7]
+
+# ============================================================
+# =============Luminosity and Timing Data path======
+# ============================================================
+0x2012   , B'00000000,        # CONF_LDPU_INIT_WIN1L
+                              #  LUMI_WINDOW1L[7:0]
+
+0x2013   , B'00011000,        # CONF_LDPU_INIT_WIN1H
+                              #  LUMI_WINDOW1H[7:0]
+
+0x2014   , B'00000000,        # CONF_LDPU_INIT_WIN2L
+                              #  LUMI_WINDOW2L[7:0]
+
+0x2015   , B'11111111,        # CONF_LDPU_INIT_WIN2H
+                              #  LUMI_WINDOW2H[7:0]
+							  
+0x2016   , B'0-1-1-100-10,    # CONF_PERI_CTRL
+                              #  TRIG_TX_RATE[1:0]
+                              #  TRIG_MODE[3:2]
+                              #  TRIG_ENABLE_ENCODING[4]
+                              #  TRIG_ENABLE_CRC_CHECK[5]
+                              #  TRIG_ENABLE_TX[6]
+                              #  LUMI_ENABLE_CLOCK[7]
+							  
+0x2017   , B'00000000,        # CONF_TDPU_CRC_ERROR_L
+                              #  VALUE[7:0]
+
+0x2018   , B'00000000,        # CONF_TDPU_CRC_ERROR_H
+                              #  VALUE[7:0]
+
+0x2019   , B'11111010,        # CONF_TDPU_PATTERN
+                              #  VALUE[7:0]
+
+0x201A   , B'0-1100100,       # CONF_TDPU_OCUP_REF
+                              #  VALUE[6:0]
+
+# ============================================================
+# =============EFUSE======
+# ============================================================
+0x201B   , B'00000000,        # CONF_EFUSE_PROG0
+                              #  VALUE_LSB[7:0]
+
+0x201C   , B'00000000,        # CONF_EFUSE_PROG1
+                              #  VALUE_MIDDLE[7:0]
+
+0x201D   , B'0-1-000000,      # CONF_EFUSE_PROG2
+                              #  VALUE_MSB[5:0]
+                              #  READ[6]
+                              #  WRITE{7]
+
+
+usleep,1000,					# Micro Sleep (min = 1, max = 2147483647)
+

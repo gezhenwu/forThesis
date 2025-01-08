@@ -1,0 +1,2078 @@
+Format: 2
+Links:
+  - Link: 0
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    SetTtcClock: false
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 1
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 2
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 3
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 4
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 5
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 6
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 3
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x7000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 1
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 2
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 3
+        WidthFromHost: 2
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x7000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 7
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 3
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x7000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 1
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 2
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 3
+        WidthFromHost: 2
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x7000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 8
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 4
+        EnableToHost: 0x0001
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 3
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x7000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 1
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 2
+        WidthFromHost: 2
+        EnableFromHost: 0x0001
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 3
+        WidthFromHost: 2
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111113
+        TtcOption: 8
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x7000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 9
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 10
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 11
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 12
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 13
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 14
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 15
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 16
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 17
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 18
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 19
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 20
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 21
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 22
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: 23
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: 0x0000
+        ModeFromHost: 0x000000011111111
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: 0x1000
+        ModeFromHost: 0x200000000000000
+        TtcOption: 0
+  - Link: -1
+    LinkMode: 3
+    LinkChunkMaxSize: 0
+    EgroupsToHost:
+      - Egroup: 0
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 1
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 2
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 3
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 4
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 5
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 6
+        WidthToHost: 2
+        EnableToHost: 0x0000
+        ModeToHost: 0x000000011111111
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+      - Egroup: 7
+        WidthToHost: 0
+        EnableToHost: 0x1000
+        ModeToHost: 0x200000000000000
+        DmaIndices: 0x00000000
+        StreamId: 0x00
+    EgroupsFromHost:
+      - Egroup: 0
+        WidthFromHost: 0
+        EnableFromHost: ""
+        ModeFromHost: ""
+        TtcOption: 0
+      - Egroup: 1
+        WidthFromHost: 0
+        EnableFromHost: ""
+        ModeFromHost: ""
+        TtcOption: 0
+      - Egroup: 2
+        WidthFromHost: 0
+        EnableFromHost: ""
+        ModeFromHost: ""
+        TtcOption: 0
+      - Egroup: 3
+        WidthFromHost: 0
+        EnableFromHost: ""
+        ModeFromHost: ""
+        TtcOption: 0
+      - Egroup: 4
+        WidthFromHost: 0
+        EnableFromHost: ""
+        ModeFromHost: ""
+        TtcOption: 0
+      - Egroup: 5
+        WidthFromHost: 0
+        EnableFromHost: ""
+        ModeFromHost: ""
+        TtcOption: 0

@@ -1,0 +1,20 @@
+setup1:  Xilinx HGTD2
+B16 has 2 RC circuits
+
+2023 8 18:  Discri On for vthScan
+
+2023 9 21: Bug: discri turn-off again!
+           All B18 are probably done with discri on
+	   All B16 are probably done with discri off
+           Keep discri off for now on
+
+2023 9 23: discri turn on again for vthScan for B5
+           B16 is still with discri off
+	   
+2023 9 24: only R1 for B16
+
+2023  X X: IB???
+ 
+2024 29 01 IB104
+
+2024 02 02 IB7

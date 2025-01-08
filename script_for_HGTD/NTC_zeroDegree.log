@@ -1,0 +1,193 @@
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 0
+
+***FLX-device number is 0. GBT-link number is 0.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Module 9 asic 0 muxChannel 35 ADC_value 301
+Module 9 asic 1 muxChannel 35 ADC_value 302
+Module 10 asic 0 muxChannel 41 ADC_value 308
+Module 10 asic 1 muxChannel 41 ADC_value 309
+Module 11 asic 0 muxChannel 47 ADC_value 315
+Module 11 asic 1 muxChannel 47 ADC_value 315
+Module 12 asic 0 muxChannel 53 ADC_value 315
+Module 12 asic 1 muxChannel 53 ADC_value 315
+Module 13 asic 0 muxChannel 59 ADC_value 1023
+Module 13 asic 1 muxChannel 59 ADC_value 1023
+
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 1
+
+***FLX-device number is 0. GBT-link number is 1.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Module 9 asic 0 muxChannel 35 ADC_value 1023
+Module 9 asic 1 muxChannel 35 ADC_value 1023
+Module 10 asic 0 muxChannel 41 ADC_value 1023
+Module 10 asic 1 muxChannel 41 ADC_value 1023
+Module 11 asic 0 muxChannel 47 ADC_value 1023
+Module 11 asic 1 muxChannel 47 ADC_value 1023
+Module 12 asic 0 muxChannel 53 ADC_value 1023
+Module 12 asic 1 muxChannel 53 ADC_value 1023
+Module 13 asic 0 muxChannel 59 ADC_value 1023
+Module 13 asic 1 muxChannel 59 ADC_value 1023
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 2
+
+***FLX-device number is 0. GBT-link number is 2.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Module 9 asic 0 muxChannel 35 ADC_value 1023
+Module 9 asic 1 muxChannel 35 ADC_value 1023
+Module 10 asic 0 muxChannel 41 ADC_value 1023
+Module 10 asic 1 muxChannel 41 ADC_value 1023
+Module 11 asic 0 muxChannel 47 ADC_value 1023
+Module 11 asic 1 muxChannel 47 ADC_value 1023
+Module 12 asic 0 muxChannel 53 ADC_value 1023
+Module 12 asic 1 muxChannel 53 ADC_value 1023
+Module 13 asic 0 muxChannel 59 ADC_value 1023
+Module 13 asic 1 muxChannel 59 ADC_value 1023
+
+
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 3
+
+***FLX-device number is 0. GBT-link number is 3.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+WARNING: too many bad transactions, resetting SerialComm
+[SerialComm] deleting instance after 5 transactions.
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Stop retry
+Traceback (most recent call last):
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/probe.py", line 167, in <module>
+    main()
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/probe.py", line 25, in main
+    peb.timing.lpgbt.vdac_setup(2500)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 75, in decorator
+    raise error
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 72, in decorator
+    retval = method(self, *args, **kwargs)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 963, in vdac_setup
+    dach = self.read_reg(self.DACCONFIGH)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 75, in decorator
+    raise error
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 72, in decorator
+    retval = method(self, *args, **kwargs)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 174, in read_reg
+    reg_val = self.read_regs(reg_addr, 1)[0]
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 75, in decorator
+    raise error
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 72, in decorator
+    retval = method(self, *args, **kwargs)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 191, in read_regs
+    data = self._comm_intfs[comm_intf]["read_regs"](
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/lpgbt_timing.py", line 126, in read_lpgbt_regs
+    raise Exception(f"Read failure at address 0x%x"%reg_addr)
+Exception: Read failure at address 0x6a
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 4
+
+***FLX-device number is 0. GBT-link number is 4.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+muxChannel 5 ADC_value 292
+muxChannel 17 ADC_value 605
+muxChannel 29 ADC_value 303
+muxChannel 41 ADC_value 305
+muxChannel 53 ADC_value 605
+
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 5
+
+***FLX-device number is 0. GBT-link number is 5.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+muxChannel 5 ADC_value 290
+muxChannel 17 ADC_value 289
+muxChannel 29 ADC_value 294
+muxChannel 41 ADC_value 1023
+muxChannel 53 ADC_value 1023
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 6
+
+***FLX-device number is 0. GBT-link number is 6.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+muxChannel 5 ADC_value 287
+muxChannel 17 ADC_value 300
+muxChannel 29 ADC_value 294
+muxChannel 41 ADC_value 30
+muxChannel 53 ADC_value 302
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 7
+
+***FLX-device number is 0. GBT-link number is 7.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+WARNING: too many bad transactions, resetting SerialComm
+[SerialComm] deleting instance after 5 transactions.
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Read failure at address 0x6a, and retry...
+Stop retry
+Traceback (most recent call last):
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/probe.py", line 167, in <module>
+    main()
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/probe.py", line 25, in main
+    peb.timing.lpgbt.vdac_setup(2500)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 75, in decorator
+    raise error
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 72, in decorator
+    retval = method(self, *args, **kwargs)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 963, in vdac_setup
+    dach = self.read_reg(self.DACCONFIGH)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 75, in decorator
+    raise error
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 72, in decorator
+    retval = method(self, *args, **kwargs)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 174, in read_reg
+    reg_val = self.read_regs(reg_addr, 1)[0]
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 75, in decorator
+    raise error
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 72, in decorator
+    retval = method(self, *args, **kwargs)
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/../lpgbt/lpgbt_control_lib/lpgbt.py", line 191, in read_regs
+    data = self._comm_intfs[comm_intf]["read_regs"](
+  File "/home/hgtd-daq/hgtd-peb/hgtd-peb/script3/lib/lpgbt_timing.py", line 126, in read_lpgbt_regs
+    raise Exception(f"Read failure at address 0x%x"%reg_addr)
+Exception: Read failure at address 0x6a
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ python3 probe.py -G 8
+
+***FLX-device number is 0. GBT-link number is 8.***
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+muxChannel 5 ADC_value 1023
+muxChannel 17 ADC_value 301
+muxChannel 29 ADC_value 296
+muxChannel 41 ADC_value 38
+muxChannel 53 ADC_value 297
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ vi NTCmeas.log
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$ flx-info link
+Card type : FLX-712
+Firmw type: LPGBT
+
+Link alignment status
+------------------------
+Channel |  0    1    2    3    4    5    6    7    8    9
+        --------------------------------------------------
+Aligned | YES  YES  YES  NO   YES  YES  YES  NO   YES  NO
+
+Channel | 10   11   12   13   14   15   16   17   18   19
+        --------------------------------------------------
+Aligned | NO   NO   NO   NO   NO   NO   NO   NO   NO   YES
+[hgtd-daq@pc-hgtd-daq-flx-01 script3]$
+

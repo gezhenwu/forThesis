@@ -1,0 +1,11 @@
+stages:
+  - lint
+
+lint:
+  stage: lint
+  image: python:buster
+  script:
+    - python -m pip install pylint
+    - python -m pip install -e .
+    # we disable R0801 (duplicate-code) warning as most of v0 and v1 files are very similar
+    - pylint lpgbt_control_lib

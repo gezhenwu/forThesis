@@ -1,0 +1,80 @@
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 0.***
+
+Read RSSI from VTRx+: 791
+reg_vtrx: 22, value: 244
+reg_vtrx: 23, value: 1
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 1.***
+
+Read RSSI from VTRx+: 1023
+reg_vtrx: 22, value: 37
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 2.***
+
+Read RSSI from VTRx+: 1023
+reg_vtrx: 22, value: 38
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 3.***
+
+Read RSSI from VTRx+: 771
+reg_vtrx: 22, value: 8
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 4.***
+
+Read RSSI from VTRx+: 314
+reg_vtrx: 22, value: 48
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 5.***
+
+Read RSSI from VTRx+: 306
+reg_vtrx: 22, value: 47
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 6.***
+
+Read RSSI from VTRx+: 272
+reg_vtrx: 22, value: 46
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+
+***FLX-device number is 0. GBT-link number is 7.***
+
+Read RSSI from VTRx+: 287
+reg_vtrx: 22, value: 7
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+
+Opened FLX-device 0, firmw FLX712-LPGBT-2x10CH-231012-122-GIT:rm-5.0/3463
+***FLX-device number is 0. GBT-link number is 8.***
+reg_vtrx: 22, value: 2
+reg_vtrx: 23, value: 2
+reg_vtrx: 24, value: 0
+reg_vtrx: 25, value: 0
+Read RSSI from VTRx+: 1023
